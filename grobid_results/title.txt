@@ -1,0 +1,28 @@
+Global Health Journal
+Utilization of whatsapp application as discussion media in blended learning
+Moving towards universal health coverage for mental disorders in Ethiopia
+Inverting Visual Representations with Convolutional Networks
+Methods for Interpreting and Understanding Deep Neural Networks
+Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)
+A Survey Of Methods For Explaining Black Box Models
+Mathematical Foundations of Computing
+Explaining Explanations: An Overview of Interpretability of Machine Learning
+Understanding Neural Networks via Feature Visualization: A survey
+Explainable Artificial Intelligence: a Systematic Review
+Intrinsic Dimension, Persistent Homology and Generalization in Neural Networks
+Adversarial Diffusion Distillation
+Deep learning in precision medicine and focus on glioma
+Learning Transferable Visual Models From Natural Language Supervision
+Consistency Models
+COVID-19 and children's health in the United States: Consideration of physical and social environments during the pandemic
+Zero-Shot Text-to-Image Generation
+MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING
+LCM-LORA: A UNIVERSAL STABLE-DIFFUSION ACCELERATION MODULE
+Association of cardiovascular emerging risk factors with acute coronary syndrome and stroke: A case-control study
+Llama 2: Open Foundation and Fine-Tuned Chat Models
+MASTODON OVER MAMMON Towards publicly owned scholarly knowledge
+An insight of medical students on the use of lectures in the curriculum: A pilot study
+Mixtral of Experts
+Attention Is All You Need
+The proposed EU Directives for AI liability leave worrying gaps likely to impact medical AI
+Unusual Features of the SARS-CoV-2 Genome Suggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of Its Probable Synthetic Route
