@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import json
 
 
 def grobid_xml(pdf_path):
@@ -94,20 +95,15 @@ def extract_ack(xml):
 
 
 articles_folder = 'papers'
-# Check if the 'grobid_results' directory exists, if not, create it
-results_dir = "./grobid_results"
+# Check if the 'results' directory exists, if not, create it
+results_dir = "./results"
 if not os.path.exists(results_dir):
     os.makedirs(results_dir)
-    print("Directory 'grobid_results' created successfully.")
+    print("Directory 'results' created successfully.")
 
 
-## docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2
-
-# xml = grobid_xml('./papers/1706.07979.pdf')
-# if xml:
-#     ack = extract_ack(xml)
-#     print(ack)
-
+results = []
+id_counter = 0
 
 for filename in os.listdir(articles_folder):
     if filename.endswith(".pdf"):
@@ -123,20 +119,22 @@ for filename in os.listdir(articles_folder):
             abstract = extract_abstract(xml)
             acknowledgment = extract_ack(xml)
             
-            title_file = os.path.join(results_dir, "title.txt")
-            abstract_file = os.path.join(results_dir, "abstract.txt")
-            ack_file = os.path.join(results_dir, "ack.txt")
+            results.append({
+                "id": id_counter,
+                "title": title,
+                "abstract": abstract,
+                "acknowledgment": acknowledgment
+            })
             
-            # Save title, abstract, ack
-            with open(title_file, 'a', encoding='utf-8') as f:
-                f.write(f"{title}\n")
-            with open(abstract_file, 'a', encoding='utf-8') as f:
-                f.write(f"{abstract}\n")
-            with open(ack_file, 'a', encoding='utf-8') as f:
-                f.write(f"{acknowledgment}\n")
-            
+            id_counter += 1
             print(f"Results saved for {filename}")
         else:
             print(f"Error processing {pdf_path}")
 
+output_file = os.path.join("results", "results.json")
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=4)
+
 print("Processing complete.")
+
+## docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2 

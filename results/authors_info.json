@@ -1,0 +1,934 @@
+[
+    {
+        "id": "Kawakibul_Qamar",
+        "name": "Kawakibul Qamar",
+        "institutions": [
+            "Universitas_Kanjuruhan"
+        ]
+    },
+    {
+        "id": "Slamet_Riyadi",
+        "name": "Slamet Riyadi",
+        "institutions": [
+            "Universitas_Kanjuruhan"
+        ]
+    },
+    {
+        "id": "Tri_Wulandari",
+        "name": "Tri Wulandari",
+        "institutions": [
+            "Universitas_Kanjuruhan"
+        ]
+    },
+    {
+        "id": "Charlotte_Hanlon",
+        "name": "Charlotte Hanlon",
+        "institutions": [
+            "Kings_College_London"
+        ]
+    },
+    {
+        "id": "Atalay_Alem",
+        "name": "Atalay Alem",
+        "institutions": [
+            "Addis_Ababa_University"
+        ]
+    },
+    {
+        "id": "Crick_Lund",
+        "name": "Crick Lund",
+        "institutions": [
+            "Kings_College_London"
+        ]
+    },
+    {
+        "id": "Damen_Hailemariam",
+        "name": "Damen Hailemariam",
+        "institutions": [
+            "Addis_Ababa_University"
+        ]
+    },
+    {
+        "id": "Esubalew_Assefa",
+        "name": "Esubalew Assefa",
+        "institutions": [
+            "The_Open_University"
+        ]
+    },
+    {
+        "id": "Tedla_W_Giorgis",
+        "name": "Tedla W. Giorgis",
+        "institutions": [
+            "Federal_Ministry_of_Health"
+        ]
+    },
+    {
+        "id": "Dan_Chisholm",
+        "name": "Dan Chisholm",
+        "institutions": [
+            "World_Health_Organization"
+        ]
+    },
+    {
+        "id": "Alexey_Dosovitskiy",
+        "name": "Alexey Dosovitskiy",
+        "institutions": [
+            "University_of_Freiburg"
+        ]
+    },
+    {
+        "id": "Thomas_Brox",
+        "name": "Thomas Brox",
+        "institutions": [
+            "University_of_Freiburg"
+        ]
+    },
+    {
+        "id": "Grgoire_Montavon",
+        "name": "Grégoire Montavon",
+        "institutions": [
+            "Technische_Universitt_Berlin"
+        ]
+    },
+    {
+        "id": "Wojciech_Samek",
+        "name": "Wojciech Samek",
+        "institutions": [
+            "Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute"
+        ]
+    },
+    {
+        "id": "Klaus_Robert_Mller",
+        "name": "Klaus Robert Müller",
+        "institutions": [
+            "Korea_University",
+            "Technische_Universitt_Berlin",
+            "Max_Planck_Institute_for_Informatics"
+        ]
+    },
+    {
+        "id": "Been_Kim",
+        "name": "Been Kim",
+        "institutions": []
+    },
+    {
+        "id": "Martin_Wattenberg",
+        "name": "Martin Wattenberg",
+        "institutions": []
+    },
+    {
+        "id": "Justin_Gilmer",
+        "name": "Justin Gilmer",
+        "institutions": []
+    },
+    {
+        "id": "Carrie_J_Cai",
+        "name": "Carrie J. Cai",
+        "institutions": []
+    },
+    {
+        "id": "James_Wexler",
+        "name": "James Wexler",
+        "institutions": []
+    },
+    {
+        "id": "Fernanda_Vigas",
+        "name": "Fernanda Viégas",
+        "institutions": []
+    },
+    {
+        "id": "Rory_Sayres",
+        "name": "Rory Sayres",
+        "institutions": []
+    },
+    {
+        "id": "Riccardo_Guidotti",
+        "name": "Riccardo Guidotti",
+        "institutions": [
+            "University_of_Pisa"
+        ]
+    },
+    {
+        "id": "Anna_Monreale",
+        "name": "Anna Monreale",
+        "institutions": [
+            "University_of_Pisa"
+        ]
+    },
+    {
+        "id": "Salvatore_Ruggieri",
+        "name": "Salvatore Ruggieri",
+        "institutions": [
+            "University_of_Pisa"
+        ]
+    },
+    {
+        "id": "Franco_Turini",
+        "name": "Franco Turini",
+        "institutions": [
+            "University_of_Pisa"
+        ]
+    },
+    {
+        "id": "Fosca_Giannotti",
+        "name": "Fosca Giannotti",
+        "institutions": [
+            "Institute_of_Information_Science_and_Technologies"
+        ]
+    },
+    {
+        "id": "Dino_Pedreschi",
+        "name": "Dino Pedreschi",
+        "institutions": [
+            "University_of_Pisa"
+        ]
+    },
+    {
+        "id": "Kennan_T_Smith",
+        "name": "Kennan T. Smith",
+        "institutions": [
+            "Oregon_State_University"
+        ]
+    },
+    {
+        "id": "Fritz_Keinert",
+        "name": "Fritz Keinert",
+        "institutions": [
+            "Oregon_State_University"
+        ]
+    },
+    {
+        "id": "Leilani_H_Gilpin",
+        "name": "Leilani H. Gilpin",
+        "institutions": [
+            "Massachusetts_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "David_Bau",
+        "name": "David Bau",
+        "institutions": [
+            "Massachusetts_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Ben_Z_Yuan",
+        "name": "Ben Z. Yuan",
+        "institutions": [
+            "Massachusetts_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Ayesha_Bajwa",
+        "name": "Ayesha Bajwa",
+        "institutions": [
+            "Massachusetts_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Michael_A_Specter",
+        "name": "Michael A. Specter",
+        "institutions": [
+            "Massachusetts_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Lalana_Kagal",
+        "name": "Lalana Kagal",
+        "institutions": [
+            "Massachusetts_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Anh_Nguyen",
+        "name": "Anh Nguyen",
+        "institutions": [
+            "Auburn_University"
+        ]
+    },
+    {
+        "id": "Jason_Yosinski",
+        "name": "Jason Yosinski",
+        "institutions": [
+            "Uber_AI_United_States"
+        ]
+    },
+    {
+        "id": "Jeff_Clune",
+        "name": "Jeff Clune",
+        "institutions": [
+            "Uber_AI_United_States"
+        ]
+    },
+    {
+        "id": "Tolga_Birdal",
+        "name": "Tolga Birdal",
+        "institutions": []
+    },
+    {
+        "id": "Aaron_Lou",
+        "name": "Aaron Lou",
+        "institutions": []
+    },
+    {
+        "id": "Leonidas_J_Guibas",
+        "name": "Leonidas J. Guibas",
+        "institutions": []
+    },
+    {
+        "id": "Umut_imekli",
+        "name": "Umut Şimşekli",
+        "institutions": []
+    },
+    {
+        "id": "Marharyta_Domnich",
+        "name": "Marharyta Domnich",
+        "institutions": []
+    },
+    {
+        "id": "Ral_Vicente",
+        "name": "Raúl Vicente",
+        "institutions": []
+    },
+    {
+        "id": "Antnio_Vicente",
+        "name": "Antônio Vicente",
+        "institutions": []
+    },
+    {
+        "id": "Ruffo_de_Freitas_Jnior",
+        "name": "Ruffo de Freitas Júnior",
+        "institutions": []
+    },
+    {
+        "id": "Roseli_Aparecida_Francelin_Romero",
+        "name": "Roseli Aparecida Francelin Romero",
+        "institutions": []
+    },
+    {
+        "id": "Axel_Sauer",
+        "name": "Axel Sauer",
+        "institutions": []
+    },
+    {
+        "id": "Dominik_Lorenz",
+        "name": "Dominik Lorenz",
+        "institutions": []
+    },
+    {
+        "id": "Andreas_Blattmann",
+        "name": "Andreas Blattmann",
+        "institutions": []
+    },
+    {
+        "id": "Robin_Rombach",
+        "name": "Robin Rombach",
+        "institutions": []
+    },
+    {
+        "id": "Alec_Radford",
+        "name": "Alec Radford",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Jong_Wook_Kim",
+        "name": "Jong Wook Kim",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Chris_Hallacy",
+        "name": "Chris Hallacy",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "A_Ramesh",
+        "name": "A. Ramesh",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Gabriel_Goh",
+        "name": "Gabriel Goh",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Sandhini_Agarwal",
+        "name": "Sandhini Agarwal",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Girish_Sastry",
+        "name": "Girish Sastry",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Amanda_Askell",
+        "name": "Amanda Askell",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Pamela_Mishkin",
+        "name": "Pamela Mishkin",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Jack_Clark",
+        "name": "Jack Clark",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Gretchen_Krueger",
+        "name": "Gretchen Krueger",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Ilya_Sutskever",
+        "name": "Ilya Sutskever",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Sarita_V_Adve",
+        "name": "Sarita V. Adve",
+        "institutions": [
+            "Rice_University"
+        ]
+    },
+    {
+        "id": "Kourosh_Gharachorloo",
+        "name": "Kourosh Gharachorloo",
+        "institutions": [
+            "Digital_Wave_United_States"
+        ]
+    },
+    {
+        "id": "Jos_R_SurezLpez",
+        "name": "José R. Suárez-López",
+        "institutions": [
+            "Human_Longevity_United_States",
+            "University_of_California_San_Diego"
+        ]
+    },
+    {
+        "id": "Maryann_R_Cairns",
+        "name": "Maryann R. Cairns",
+        "institutions": [
+            "Southern_Methodist_University"
+        ]
+    },
+    {
+        "id": "Kam_Sripada",
+        "name": "Kam Sripada",
+        "institutions": [
+            "Norwegian_University_of_Science_and_Technology"
+        ]
+    },
+    {
+        "id": "Lesliam_QuirsAlcal",
+        "name": "Lesliam Quirós-Alcalá",
+        "institutions": [
+            "Johns_Hopkins_University"
+        ]
+    },
+    {
+        "id": "Howard_W_Mielke",
+        "name": "Howard W. Mielke",
+        "institutions": [
+            "Tulane_University"
+        ]
+    },
+    {
+        "id": "Brenda_Eskenazi",
+        "name": "Brenda Eskenazi",
+        "institutions": [
+            "Center_for_Environmental_Health",
+            "University_of_California_Berkeley"
+        ]
+    },
+    {
+        "id": "Ruth_A_Etzel",
+        "name": "Ruth A. Etzel",
+        "institutions": [
+            "Milken_Institute",
+            "George_Washington_University"
+        ]
+    },
+    {
+        "id": "Katarzyna_Kordas",
+        "name": "Katarzyna Kordas",
+        "institutions": [
+            "University_at_Buffalo_State_University_of_New_York"
+        ]
+    },
+    {
+        "id": "Mikhail_Pavlov",
+        "name": "Mikhail Pavlov",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Scott_Gray",
+        "name": "Scott Gray",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Chelsea_Voss",
+        "name": "Chelsea Voss",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Mark_Chen",
+        "name": "Mark Chen",
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": "Dan_Hendrycks",
+        "name": "Dan Hendrycks",
+        "institutions": []
+    },
+    {
+        "id": "Collin_Burns",
+        "name": "Collin Burns",
+        "institutions": []
+    },
+    {
+        "id": "Steven_Basart",
+        "name": "Steven Basart",
+        "institutions": []
+    },
+    {
+        "id": "Andy_Zou",
+        "name": "Andy Zou",
+        "institutions": []
+    },
+    {
+        "id": "Mantas_Mazeika",
+        "name": "Mantas Mazeika",
+        "institutions": []
+    },
+    {
+        "id": "Dawn_Song",
+        "name": "Dawn Song",
+        "institutions": []
+    },
+    {
+        "id": "Jacob_Steinhardt",
+        "name": "Jacob Steinhardt",
+        "institutions": []
+    },
+    {
+        "id": "Denis_Havlik",
+        "name": "Denis Havlik",
+        "institutions": []
+    },
+    {
+        "id": "Marcelo_Pias",
+        "name": "Marcelo Pias",
+        "institutions": []
+    },
+    {
+        "id": "Todua_Nugzar",
+        "name": "Todua Nugzar",
+        "institutions": [
+            "Tbilisi_State_University"
+        ]
+    },
+    {
+        "id": "Lin_Gui",
+        "name": "Lin Gui",
+        "institutions": [
+            "University_of_Warwick",
+            "Harbin_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Leng_Jia",
+        "name": "Leng Jia",
+        "institutions": [
+            "University_of_Warwick",
+            "Harbin_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Jiyun_Zhou",
+        "name": "Jiyun Zhou",
+        "institutions": [
+            "University_of_Warwick",
+            "Harbin_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Ruifeng_Xu",
+        "name": "Ruifeng Xu",
+        "institutions": [
+            "University_of_Warwick",
+            "Harbin_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Yulan_He",
+        "name": "Yulan He",
+        "institutions": [
+            "University_of_Warwick",
+            "Harbin_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Lim_Suong",
+        "name": "Lim Suong",
+        "institutions": []
+    },
+    {
+        "id": "JangWoo_Kwon",
+        "name": "Jang-Woo Kwon",
+        "institutions": []
+    },
+    {
+        "id": "Jos_Manuel_Martnez_Linares",
+        "name": "José Manuel Martínez Linares",
+        "institutions": [
+            "Hospital_Universitario_Virgen_de_las_Nieves"
+        ]
+    },
+    {
+        "id": "Rafael_Guisado_Barrilao",
+        "name": "Rafael Guisado Barrilao",
+        "institutions": [
+            "Universidad_de_Granada"
+        ]
+    },
+    {
+        "id": "Francisco_M_Peinado",
+        "name": "Francisco M. Peinado",
+        "institutions": [
+            "Universidad_de_Granada"
+        ]
+    },
+    {
+        "id": "Francisco_Javier_Salgado_Parreo",
+        "name": "Francisco Javier Salgado Parreño",
+        "institutions": []
+    },
+    {
+        "id": "Bjrn_Brembs",
+        "name": "Björn Brembs",
+        "institutions": [
+            "University_of_Regensburg"
+        ]
+    },
+    {
+        "id": "A_Lenardic",
+        "name": "A. Lenardic",
+        "institutions": [
+            "Rice_University"
+        ]
+    },
+    {
+        "id": "Peter_MurrayRust",
+        "name": "Peter Murray‐Rust",
+        "institutions": [
+            "University_of_Cambridge"
+        ]
+    },
+    {
+        "id": "Leslie_Chan",
+        "name": "Leslie Chan",
+        "institutions": [
+            "University_of_Toronto"
+        ]
+    },
+    {
+        "id": "Dasapta_Erwin_Irawan",
+        "name": "Dasapta Erwin Irawan",
+        "institutions": [
+            "Bandung_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": "Jared_Robinson",
+        "name": "Jared Robinson",
+        "institutions": []
+    },
+    {
+        "id": "Indrajit_Banerjee",
+        "name": "Indrajit Banerjee",
+        "institutions": []
+    },
+    {
+        "id": "Alexandra_Leclzio",
+        "name": "Alexandra Leclézio",
+        "institutions": []
+    },
+    {
+        "id": "Subodh_Kumar_Joshi",
+        "name": "Subodh Kumar Joshi",
+        "institutions": []
+    },
+    {
+        "id": "Albert_Q_Jiang",
+        "name": "Albert Q. Jiang",
+        "institutions": []
+    },
+    {
+        "id": "Alexandre_Sablayrolles",
+        "name": "Alexandre Sablayrolles",
+        "institutions": []
+    },
+    {
+        "id": "Antoine_Roux",
+        "name": "Antoine Roux",
+        "institutions": []
+    },
+    {
+        "id": "Michel_Arthur",
+        "name": "Michel Arthur",
+        "institutions": []
+    },
+    {
+        "id": "Blanche_Savary",
+        "name": "Blanche Savary",
+        "institutions": []
+    },
+    {
+        "id": "Chris_Bamford",
+        "name": "Chris Bamford",
+        "institutions": []
+    },
+    {
+        "id": "Devendra_Singh_Chaplot",
+        "name": "Devendra Singh Chaplot",
+        "institutions": []
+    },
+    {
+        "id": "Diego_de_las_Casas",
+        "name": "Diego de las Casas",
+        "institutions": []
+    },
+    {
+        "id": "Emma_Bou_Hanna",
+        "name": "Emma Bou Hanna",
+        "institutions": []
+    },
+    {
+        "id": "Florian_Bressand",
+        "name": "Florian Bressand",
+        "institutions": []
+    },
+    {
+        "id": "Gianna_Lengyel",
+        "name": "Gianna Lengyel",
+        "institutions": []
+    },
+    {
+        "id": "Guillaume_Bour",
+        "name": "Guillaume Bour",
+        "institutions": []
+    },
+    {
+        "id": "Guillaume_Lample",
+        "name": "Guillaume Lample",
+        "institutions": []
+    },
+    {
+        "id": "Llio_Renard_Lavaud",
+        "name": "Lélio Renard Lavaud",
+        "institutions": []
+    },
+    {
+        "id": "Lucile_Saulnier",
+        "name": "Lucile Saulnier",
+        "institutions": []
+    },
+    {
+        "id": "MarieAnne_Lachaux",
+        "name": "Marie-Anne Lachaux",
+        "institutions": []
+    },
+    {
+        "id": "Pierre_Stock",
+        "name": "Pierre Stock",
+        "institutions": []
+    },
+    {
+        "id": "Sandeep_Subramanian",
+        "name": "Sandeep Subramanian",
+        "institutions": []
+    },
+    {
+        "id": "Sophia_Yang",
+        "name": "Sophia Yang",
+        "institutions": []
+    },
+    {
+        "id": "Szymon_Antoniak",
+        "name": "Szymon Antoniak",
+        "institutions": []
+    },
+    {
+        "id": "Teven_Le_Scao",
+        "name": "Teven Le Scao",
+        "institutions": []
+    },
+    {
+        "id": "Thophile_Gervet",
+        "name": "Théophile Gervet",
+        "institutions": []
+    },
+    {
+        "id": "Thibaut_Lavril",
+        "name": "Thibaut Lavril",
+        "institutions": []
+    },
+    {
+        "id": "Thomas_J_Wang",
+        "name": "Thomas J. Wang",
+        "institutions": []
+    },
+    {
+        "id": "Timothe_Lacroix",
+        "name": "Timothée Lacroix",
+        "institutions": []
+    },
+    {
+        "id": "William_El_Sayed",
+        "name": "William El Sayed",
+        "institutions": []
+    },
+    {
+        "id": "Ashish_Vaswani",
+        "name": "Ashish Vaswani",
+        "institutions": []
+    },
+    {
+        "id": "Noam_Shazeer",
+        "name": "Noam Shazeer",
+        "institutions": []
+    },
+    {
+        "id": "Niki_Parmar",
+        "name": "Niki Parmar",
+        "institutions": []
+    },
+    {
+        "id": "Jakob_Uszkoreit",
+        "name": "Jakob Uszkoreit",
+        "institutions": []
+    },
+    {
+        "id": "Llion_Jones",
+        "name": "Llion Jones",
+        "institutions": []
+    },
+    {
+        "id": "Aidan_N_Gomez",
+        "name": "Aidan N. Gomez",
+        "institutions": []
+    },
+    {
+        "id": "ukasz_Kaiser",
+        "name": "Łukasz Kaiser",
+        "institutions": []
+    },
+    {
+        "id": "Illia_Polosukhin",
+        "name": "Illia Polosukhin",
+        "institutions": []
+    },
+    {
+        "id": "Mindy_Nunez_Duffourc",
+        "name": "Mindy Nunez Duffourc",
+        "institutions": [
+            "New_York_Law_School",
+            "New_York_University",
+            "Dickinson_College"
+        ]
+    },
+    {
+        "id": "Sara_Gerke",
+        "name": "Sara Gerke",
+        "institutions": [
+            "Dickinson_College"
+        ]
+    },
+    {
+        "id": "Zoe_Vasileiou",
+        "name": "Zoe Vasileiou",
+        "institutions": [
+            "Information_Technologies_Institute",
+            "Aristotle_University_of_Thessaloniki",
+            "Centre_for_Research_and_Technology_Hellas"
+        ]
+    },
+    {
+        "id": "Georgios_Meditskos",
+        "name": "Georgios Meditskos",
+        "institutions": [
+            "Information_Technologies_Institute",
+            "Centre_for_Research_and_Technology_Hellas"
+        ]
+    },
+    {
+        "id": "Stefanos_Vrochidis",
+        "name": "Stefanos Vrochidis",
+        "institutions": [
+            "Information_Technologies_Institute",
+            "Centre_for_Research_and_Technology_Hellas"
+        ]
+    },
+    {
+        "id": "Nick_Bassiliades",
+        "name": "Nick Bassiliades",
+        "institutions": [
+            "Aristotle_University_of_Thessaloniki"
+        ]
+    },
+    {
+        "id": "Lin_Yan",
+        "name": "Lin Yan",
+        "institutions": []
+    },
+    {
+        "id": "Shu_Kang",
+        "name": "Shu Kang",
+        "institutions": []
+    },
+    {
+        "id": "Jie_Guan",
+        "name": "Jie Guan",
+        "institutions": []
+    },
+    {
+        "id": "Shanchang_Hu",
+        "name": "Shanchang Hu",
+        "institutions": []
+    }
+]

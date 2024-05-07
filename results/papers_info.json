@@ -1,0 +1,524 @@
+[
+    {
+        "id": 0,
+        "doi": "https://doi.org/10.11591/edulearn.v13i3.8412",
+        "title": "Utilization of whatsapp application as discussion media in blended learning",
+        "language": "en",
+        "publication_date": "2019-08-01",
+        "authors": [
+            "Kawakibul_Qamar",
+            "Slamet_Riyadi",
+            "Tri_Wulandari"
+        ],
+        "institutions": [
+            "Universitas_Kanjuruhan"
+        ]
+    },
+    {
+        "id": 1,
+        "doi": "https://doi.org/10.1186/s13033-019-0268-9",
+        "title": "Moving towards universal health coverage for mental disorders in Ethiopia",
+        "language": "en",
+        "publication_date": "2019-02-25",
+        "authors": [
+            "Charlotte_Hanlon",
+            "Atalay_Alem",
+            "Crick_Lund",
+            "Damen_Hailemariam",
+            "Esubalew_Assefa",
+            "Tedla_W_Giorgis",
+            "Dan_Chisholm"
+        ],
+        "institutions": [
+            "Kings_College_London",
+            "The_Open_University",
+            "World_Health_Organization",
+            "Federal_Ministry_of_Health",
+            "Addis_Ababa_University"
+        ]
+    },
+    {
+        "id": 2,
+        "doi": "https://doi.org/10.1109/cvpr.2016.522",
+        "title": "Inverting Visual Representations with Convolutional Networks",
+        "language": "en",
+        "publication_date": "2016-06-01",
+        "authors": [
+            "Alexey_Dosovitskiy",
+            "Thomas_Brox"
+        ],
+        "institutions": [
+            "University_of_Freiburg"
+        ]
+    },
+    {
+        "id": 3,
+        "doi": "https://doi.org/10.1016/j.dsp.2017.10.011",
+        "title": "Methods for interpreting and understanding deep neural networks",
+        "language": "en",
+        "publication_date": "2018-02-01",
+        "authors": [
+            "Grgoire_Montavon",
+            "Wojciech_Samek",
+            "Klaus_Robert_Mller"
+        ],
+        "institutions": [
+            "Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute",
+            "Technische_Universitt_Berlin",
+            "Korea_University",
+            "Max_Planck_Institute_for_Informatics"
+        ]
+    },
+    {
+        "id": 4,
+        "doi": "https://doi.org/10.48550/arxiv.1711.11279",
+        "title": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+        "language": "en",
+        "publication_date": "2017-01-01",
+        "authors": [
+            "Been_Kim",
+            "Martin_Wattenberg",
+            "Justin_Gilmer",
+            "Carrie_J_Cai",
+            "James_Wexler",
+            "Fernanda_Vigas",
+            "Rory_Sayres"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 5,
+        "doi": "https://doi.org/10.1145/3236009",
+        "title": "A Survey of Methods for Explaining Black Box Models",
+        "language": "en",
+        "publication_date": "2018-08-22",
+        "authors": [
+            "Riccardo_Guidotti",
+            "Anna_Monreale",
+            "Salvatore_Ruggieri",
+            "Franco_Turini",
+            "Fosca_Giannotti",
+            "Dino_Pedreschi"
+        ],
+        "institutions": [
+            "Institute_of_Information_Science_and_Technologies",
+            "University_of_Pisa"
+        ]
+    },
+    {
+        "id": 6,
+        "doi": "https://doi.org/10.1364/ao.24.003950",
+        "title": "Mathematical foundations of computed tomography",
+        "language": "en",
+        "publication_date": "1985-12-01",
+        "authors": [
+            "Kennan_T_Smith",
+            "Fritz_Keinert"
+        ],
+        "institutions": [
+            "Oregon_State_University"
+        ]
+    },
+    {
+        "id": 7,
+        "doi": "https://doi.org/10.1109/dsaa.2018.00018",
+        "title": "Explaining Explanations: An Overview of Interpretability of Machine Learning",
+        "language": "en",
+        "publication_date": "2018-10-01",
+        "authors": [
+            "Leilani_H_Gilpin",
+            "David_Bau",
+            "Ben_Z_Yuan",
+            "Ayesha_Bajwa",
+            "Michael_A_Specter",
+            "Lalana_Kagal"
+        ],
+        "institutions": [
+            "Massachusetts_Institute_of_Technology"
+        ]
+    },
+    {
+        "id": 8,
+        "doi": "https://doi.org/10.1007/978-3-030-28954-6_4",
+        "title": "Understanding Neural Networks via Feature Visualization: A Survey",
+        "language": "en",
+        "publication_date": "2019-01-01",
+        "authors": [
+            "Anh_Nguyen",
+            "Jason_Yosinski",
+            "Jeff_Clune"
+        ],
+        "institutions": [
+            "Uber_AI_United_States",
+            "Auburn_University"
+        ]
+    },
+    {
+        "id": 9,
+        "doi": "https://doi.org/10.48550/arxiv.2111.13171",
+        "title": "Intrinsic Dimension, Persistent Homology and Generalization in Neural Networks",
+        "language": "en",
+        "publication_date": "2021-01-01",
+        "authors": [
+            "Tolga_Birdal",
+            "Aaron_Lou",
+            "Leonidas_J_Guibas",
+            "Umut_imekli"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 10,
+        "doi": "https://doi.org/10.48550/arxiv.2404.12810",
+        "title": "Enhancing Counterfactual Explanation Search with Diffusion Distance and\n  Directional Coherence",
+        "language": "en",
+        "publication_date": "2024-04-19",
+        "authors": [
+            "Marharyta_Domnich",
+            "Ral_Vicente"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 11,
+        "doi": "https://doi.org/10.48550/arxiv.2404.15029",
+        "title": "Explainable LightGBM Approach for Predicting Myocardial Infarction\n  Mortality",
+        "language": "en",
+        "publication_date": "2024-04-23",
+        "authors": [
+            "Antnio_Vicente",
+            "Ruffo_de_Freitas_Jnior",
+            "Roseli_Aparecida_Francelin_Romero"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 12,
+        "doi": "https://doi.org/10.48550/arxiv.2311.17042",
+        "title": "Adversarial Diffusion Distillation",
+        "language": "en",
+        "publication_date": "2023-01-01",
+        "authors": [
+            "Axel_Sauer",
+            "Dominik_Lorenz",
+            "Andreas_Blattmann",
+            "Robin_Rombach"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 13,
+        "doi": "https://doi.org/10.48550/arxiv.2103.00020",
+        "title": "Learning Transferable Visual Models From Natural Language Supervision",
+        "language": "en",
+        "publication_date": "2021-01-01",
+        "authors": [
+            "Alec_Radford",
+            "Jong_Wook_Kim",
+            "Chris_Hallacy",
+            "A_Ramesh",
+            "Gabriel_Goh",
+            "Sandhini_Agarwal",
+            "Girish_Sastry",
+            "Amanda_Askell",
+            "Pamela_Mishkin",
+            "Jack_Clark",
+            "Gretchen_Krueger",
+            "Ilya_Sutskever"
+        ],
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": 14,
+        "doi": "https://doi.org/10.1109/2.546611",
+        "title": "Shared memory consistency models: a tutorial",
+        "language": "en",
+        "publication_date": "1996-01-01",
+        "authors": [
+            "Sarita_V_Adve",
+            "Kourosh_Gharachorloo"
+        ],
+        "institutions": [
+            "Rice_University",
+            "Digital_Wave_United_States"
+        ]
+    },
+    {
+        "id": 15,
+        "doi": "https://doi.org/10.1016/j.envres.2021.111160",
+        "title": "COVID-19 and children's health in the United States: Consideration of physical and social environments during the pandemic",
+        "language": "en",
+        "publication_date": "2021-06-01",
+        "authors": [
+            "Jos_R_SurezLpez",
+            "Maryann_R_Cairns",
+            "Kam_Sripada",
+            "Lesliam_QuirsAlcal",
+            "Howard_W_Mielke",
+            "Brenda_Eskenazi",
+            "Ruth_A_Etzel",
+            "Katarzyna_Kordas"
+        ],
+        "institutions": [
+            "University_of_California_Berkeley",
+            "Johns_Hopkins_University",
+            "Center_for_Environmental_Health",
+            "University_at_Buffalo_State_University_of_New_York",
+            "Southern_Methodist_University",
+            "Milken_Institute",
+            "Human_Longevity_United_States",
+            "George_Washington_University",
+            "Norwegian_University_of_Science_and_Technology",
+            "Tulane_University",
+            "University_of_California_San_Diego"
+        ]
+    },
+    {
+        "id": 16,
+        "doi": "https://doi.org/10.48550/arxiv.2102.12092",
+        "title": "Zero-Shot Text-to-Image Generation",
+        "language": "en",
+        "publication_date": "2021-01-01",
+        "authors": [
+            "A_Ramesh",
+            "Mikhail_Pavlov",
+            "Gabriel_Goh",
+            "Scott_Gray",
+            "Chelsea_Voss",
+            "Alec_Radford",
+            "Mark_Chen",
+            "Ilya_Sutskever"
+        ],
+        "institutions": [
+            "OpenAI_United_States"
+        ]
+    },
+    {
+        "id": 17,
+        "doi": "https://doi.org/10.48550/arxiv.2009.03300",
+        "title": "Measuring Massive Multitask Language Understanding",
+        "language": "en",
+        "publication_date": "2020-01-01",
+        "authors": [
+            "Dan_Hendrycks",
+            "Collin_Burns",
+            "Steven_Basart",
+            "Andy_Zou",
+            "Mantas_Mazeika",
+            "Dawn_Song",
+            "Jacob_Steinhardt"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 18,
+        "doi": "https://doi.org/10.48550/arxiv.2402.00830",
+        "title": "Common errors in Generative AI systems used for knowledge extraction in\n  the climate action domain",
+        "language": "en",
+        "publication_date": "2024-02-01",
+        "authors": [
+            "Denis_Havlik",
+            "Marcelo_Pias"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 19,
+        "doi": "https://doi.org/10.5281/zenodo.1134961",
+        "title": "Perceptions of Georgian consumers about healthy  nutrition",
+        "language": "en",
+        "publication_date": "2017-11-07",
+        "authors": [
+            "Todua_Nugzar"
+        ],
+        "institutions": [
+            "Tbilisi_State_University"
+        ]
+    },
+    {
+        "id": 20,
+        "doi": "https://doi.org/10.1109/tkde.2020.2999489",
+        "title": "Multi Task Mutual Learning for Joint Sentiment Classification and Topic Detection",
+        "language": "en",
+        "publication_date": "2022-04-01",
+        "authors": [
+            "Lin_Gui",
+            "Leng_Jia",
+            "Jiyun_Zhou",
+            "Ruifeng_Xu",
+            "Yulan_He"
+        ],
+        "institutions": [
+            "Harbin_Institute_of_Technology",
+            "University_of_Warwick"
+        ]
+    },
+    {
+        "id": 21,
+        "doi": "https://doi.org/10.3217/jucs-024-09-1244",
+        "title": "Detection of Potholes Using a Deep Convolutional Neural Network.",
+        "language": "en",
+        "publication_date": "2018-09-28",
+        "authors": [
+            "Lim_Suong",
+            "JangWoo_Kwon"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 22,
+        "doi": "https://doi.org/10.1111/nhs.12299",
+        "title": "Association of cardiovascular emerging risk factors with acute coronary syndrome and stroke: A case‐control study",
+        "language": "en",
+        "publication_date": "2016-08-11",
+        "authors": [
+            "Jos_Manuel_Martnez_Linares",
+            "Rafael_Guisado_Barrilao",
+            "Francisco_M_Peinado",
+            "Francisco_Javier_Salgado_Parreo"
+        ],
+        "institutions": [
+            "Hospital_Universitario_Virgen_de_las_Nieves",
+            "Universidad_de_Granada"
+        ]
+    },
+    {
+        "id": 23,
+        "doi": "https://doi.org/10.1098/rsos.230207",
+        "title": "Mastodon over Mammon: towards publicly owned scholarly knowledge",
+        "language": "en",
+        "publication_date": "2023-07-01",
+        "authors": [
+            "Bjrn_Brembs",
+            "A_Lenardic",
+            "Peter_MurrayRust",
+            "Leslie_Chan",
+            "Dasapta_Erwin_Irawan"
+        ],
+        "institutions": [
+            "Bandung_Institute_of_Technology",
+            "University_of_Regensburg",
+            "University_of_Cambridge",
+            "University_of_Toronto",
+            "Rice_University"
+        ]
+    },
+    {
+        "id": 24,
+        "doi": "https://doi.org/10.5281/zenodo.3946369",
+        "title": "An insight of medical students on the use of lectures in the curriculum: A pilot study",
+        "language": "en",
+        "publication_date": "2020-07-01",
+        "authors": [
+            "Jared_Robinson",
+            "Indrajit_Banerjee",
+            "Alexandra_Leclzio",
+            "Subodh_Kumar_Joshi"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 25,
+        "doi": "https://doi.org/10.48550/arxiv.2401.04088",
+        "title": "Mixtral of Experts",
+        "language": "en",
+        "publication_date": "2024-01-01",
+        "authors": [
+            "Albert_Q_Jiang",
+            "Alexandre_Sablayrolles",
+            "Antoine_Roux",
+            "Michel_Arthur",
+            "Blanche_Savary",
+            "Chris_Bamford",
+            "Devendra_Singh_Chaplot",
+            "Diego_de_las_Casas",
+            "Emma_Bou_Hanna",
+            "Florian_Bressand",
+            "Gianna_Lengyel",
+            "Guillaume_Bour",
+            "Guillaume_Lample",
+            "Llio_Renard_Lavaud",
+            "Lucile_Saulnier",
+            "MarieAnne_Lachaux",
+            "Pierre_Stock",
+            "Sandeep_Subramanian",
+            "Sophia_Yang",
+            "Szymon_Antoniak",
+            "Teven_Le_Scao",
+            "Thophile_Gervet",
+            "Thibaut_Lavril",
+            "Thomas_J_Wang",
+            "Timothe_Lacroix",
+            "William_El_Sayed"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 26,
+        "doi": "https://doi.org/10.48550/arxiv.1706.03762",
+        "title": "Attention Is All You Need",
+        "language": "en",
+        "publication_date": "2017-01-01",
+        "authors": [
+            "Ashish_Vaswani",
+            "Noam_Shazeer",
+            "Niki_Parmar",
+            "Jakob_Uszkoreit",
+            "Llion_Jones",
+            "Aidan_N_Gomez",
+            "ukasz_Kaiser",
+            "Illia_Polosukhin"
+        ],
+        "institutions": []
+    },
+    {
+        "id": 27,
+        "doi": "https://doi.org/10.1038/s41746-023-00823-w",
+        "title": "The proposed EU Directives for AI liability leave worrying gaps likely to impact medical AI",
+        "language": "en",
+        "publication_date": "2023-04-26",
+        "authors": [
+            "Mindy_Nunez_Duffourc",
+            "Sara_Gerke"
+        ],
+        "institutions": [
+            "New_York_University",
+            "Dickinson_College",
+            "New_York_Law_School"
+        ]
+    },
+    {
+        "id": 28,
+        "doi": "https://doi.org/10.5281/zenodo.7664127",
+        "title": "An Explainable Intervention Prediction for Trauma Patients",
+        "language": "en",
+        "publication_date": "2023-02-14",
+        "authors": [
+            "Zoe_Vasileiou",
+            "Georgios_Meditskos",
+            "Stefanos_Vrochidis",
+            "Nick_Bassiliades"
+        ],
+        "institutions": [
+            "Centre_for_Research_and_Technology_Hellas",
+            "Aristotle_University_of_Thessaloniki",
+            "Information_Technologies_Institute"
+        ]
+    },
+    {
+        "id": 29,
+        "doi": "https://doi.org/10.5281/zenodo.4028830",
+        "title": "Unusual Features of the SARS-CoV-2 Genome Suggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of Its Probable Synthetic Route",
+        "language": "en",
+        "publication_date": "2020-09-14",
+        "authors": [
+            "Lin_Yan",
+            "Shu_Kang",
+            "Jie_Guan",
+            "Shanchang_Hu"
+        ],
+        "institutions": []
+    }
+]
