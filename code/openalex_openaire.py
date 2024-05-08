@@ -80,8 +80,8 @@ def extract_openalex_info(paper, paper_id):
         institutions_id = [clean_text(inst) for inst in institutions_name if institutions_name]
 
         # Agregar información de instituciones al conjunto
-        for inst_id in institutions_id:
-            institutions_name_set.add(inst_id)
+        for inst in institutions_name:
+            institutions_name_set.add(inst)
 
         authors_info.append({'id': author_id, 'name': author_name, 'institutions': institutions_id})
 
