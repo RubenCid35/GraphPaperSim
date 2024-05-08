@@ -1,186 +1,186 @@
 [
     {
-        "id": "UniversitasKanjuruhan",
-        "name": "Universitas_Kanjuruhan"
+        "id": "Universitas_Kanjuruhan",
+        "name": "Universitas Kanjuruhan"
     },
     {
-        "id": "KingsCollegeLondon",
-        "name": "Kings_College_London"
+        "id": "The_Open_University",
+        "name": "The Open University"
     },
     {
-        "id": "TheOpenUniversity",
-        "name": "The_Open_University"
+        "id": "Kings_College_London",
+        "name": "King's College London"
     },
     {
-        "id": "WorldHealthOrganization",
-        "name": "World_Health_Organization"
+        "id": "Addis_Ababa_University",
+        "name": "Addis Ababa University"
     },
     {
-        "id": "FederalMinistryofHealth",
-        "name": "Federal_Ministry_of_Health"
+        "id": "Federal_Ministry_of_Health",
+        "name": "Federal Ministry of Health"
     },
     {
-        "id": "AddisAbabaUniversity",
-        "name": "Addis_Ababa_University"
+        "id": "World_Health_Organization",
+        "name": "World Health Organization"
     },
     {
-        "id": "UniversityofFreiburg",
-        "name": "University_of_Freiburg"
+        "id": "University_of_Freiburg",
+        "name": "University of Freiburg"
     },
     {
-        "id": "FraunhoferInstituteforTelecommunicationsHeinrichHertzInstitute",
-        "name": "Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute"
+        "id": "Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute",
+        "name": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute"
     },
     {
-        "id": "TechnischeUniversittBerlin",
-        "name": "Technische_Universitt_Berlin"
+        "id": "Max_Planck_Institute_for_Informatics",
+        "name": "Max Planck Institute for Informatics"
     },
     {
-        "id": "KoreaUniversity",
-        "name": "Korea_University"
+        "id": "Technische_Universitt_Berlin",
+        "name": "Technische Universität Berlin"
     },
     {
-        "id": "MaxPlanckInstituteforInformatics",
-        "name": "Max_Planck_Institute_for_Informatics"
+        "id": "Korea_University",
+        "name": "Korea University"
     },
     {
-        "id": "InstituteofInformationScienceandTechnologies",
-        "name": "Institute_of_Information_Science_and_Technologies"
+        "id": "Institute_of_Information_Science_and_Technologies",
+        "name": "Institute of Information Science and Technologies"
     },
     {
-        "id": "UniversityofPisa",
-        "name": "University_of_Pisa"
+        "id": "University_of_Pisa",
+        "name": "University of Pisa"
     },
     {
-        "id": "OregonStateUniversity",
-        "name": "Oregon_State_University"
+        "id": "Oregon_State_University",
+        "name": "Oregon State University"
     },
     {
-        "id": "MassachusettsInstituteofTechnology",
-        "name": "Massachusetts_Institute_of_Technology"
+        "id": "Massachusetts_Institute_of_Technology",
+        "name": "Massachusetts Institute of Technology"
     },
     {
-        "id": "UberAIUnitedStates",
-        "name": "Uber_AI_United_States"
+        "id": "Auburn_University",
+        "name": "Auburn University"
     },
     {
-        "id": "AuburnUniversity",
-        "name": "Auburn_University"
+        "id": "Uber_AI_United_States",
+        "name": "Uber AI (United States)"
     },
     {
-        "id": "OpenAIUnitedStates",
-        "name": "OpenAI_United_States"
+        "id": "OpenAI_United_States",
+        "name": "OpenAI (United States)"
     },
     {
-        "id": "RiceUniversity",
-        "name": "Rice_University"
+        "id": "Digital_Wave_United_States",
+        "name": "Digital Wave (United States)"
     },
     {
-        "id": "DigitalWaveUnitedStates",
-        "name": "Digital_Wave_United_States"
+        "id": "Rice_University",
+        "name": "Rice University"
     },
     {
-        "id": "UniversityofCaliforniaBerkeley",
-        "name": "University_of_California_Berkeley"
+        "id": "Johns_Hopkins_University",
+        "name": "Johns Hopkins University"
     },
     {
-        "id": "JohnsHopkinsUniversity",
-        "name": "Johns_Hopkins_University"
+        "id": "Southern_Methodist_University",
+        "name": "Southern Methodist University"
     },
     {
-        "id": "CenterforEnvironmentalHealth",
-        "name": "Center_for_Environmental_Health"
+        "id": "Norwegian_University_of_Science_and_Technology",
+        "name": "Norwegian University of Science and Technology"
     },
     {
-        "id": "UniversityatBuffaloStateUniversityofNewYork",
-        "name": "University_at_Buffalo_State_University_of_New_York"
+        "id": "Human_Longevity_United_States",
+        "name": "Human Longevity (United States)"
     },
     {
-        "id": "SouthernMethodistUniversity",
-        "name": "Southern_Methodist_University"
+        "id": "University_at_Buffalo_State_University_of_New_York",
+        "name": "University at Buffalo, State University of New York"
     },
     {
-        "id": "MilkenInstitute",
-        "name": "Milken_Institute"
+        "id": "Tulane_University",
+        "name": "Tulane University"
     },
     {
-        "id": "HumanLongevityUnitedStates",
-        "name": "Human_Longevity_United_States"
+        "id": "University_of_California_Berkeley",
+        "name": "University of California, Berkeley"
     },
     {
-        "id": "GeorgeWashingtonUniversity",
-        "name": "George_Washington_University"
+        "id": "Center_for_Environmental_Health",
+        "name": "Center for Environmental Health"
     },
     {
-        "id": "NorwegianUniversityofScienceandTechnology",
-        "name": "Norwegian_University_of_Science_and_Technology"
+        "id": "Milken_Institute",
+        "name": "Milken Institute"
     },
     {
-        "id": "TulaneUniversity",
-        "name": "Tulane_University"
+        "id": "George_Washington_University",
+        "name": "George Washington University"
     },
     {
-        "id": "UniversityofCaliforniaSanDiego",
-        "name": "University_of_California_San_Diego"
+        "id": "University_of_California_San_Diego",
+        "name": "University of California, San Diego"
     },
     {
-        "id": "TbilisiStateUniversity",
-        "name": "Tbilisi_State_University"
+        "id": "Tbilisi_State_University",
+        "name": "Tbilisi State University"
     },
     {
-        "id": "HarbinInstituteofTechnology",
-        "name": "Harbin_Institute_of_Technology"
+        "id": "Harbin_Institute_of_Technology",
+        "name": "Harbin Institute of Technology"
     },
     {
-        "id": "UniversityofWarwick",
-        "name": "University_of_Warwick"
+        "id": "University_of_Warwick",
+        "name": "University of Warwick"
     },
     {
-        "id": "HospitalUniversitarioVirgendelasNieves",
-        "name": "Hospital_Universitario_Virgen_de_las_Nieves"
+        "id": "Hospital_Universitario_Virgen_de_las_Nieves",
+        "name": "Hospital Universitario Virgen de las Nieves"
     },
     {
-        "id": "UniversidaddeGranada",
-        "name": "Universidad_de_Granada"
+        "id": "Universidad_de_Granada",
+        "name": "Universidad de Granada"
     },
     {
-        "id": "BandungInstituteofTechnology",
-        "name": "Bandung_Institute_of_Technology"
+        "id": "University_of_Regensburg",
+        "name": "University of Regensburg"
     },
     {
-        "id": "UniversityofRegensburg",
-        "name": "University_of_Regensburg"
+        "id": "University_of_Toronto",
+        "name": "University of Toronto"
     },
     {
-        "id": "UniversityofCambridge",
-        "name": "University_of_Cambridge"
+        "id": "Bandung_Institute_of_Technology",
+        "name": "Bandung Institute of Technology"
     },
     {
-        "id": "UniversityofToronto",
-        "name": "University_of_Toronto"
+        "id": "University_of_Cambridge",
+        "name": "University of Cambridge"
     },
     {
-        "id": "NewYorkUniversity",
-        "name": "New_York_University"
+        "id": "New_York_Law_School",
+        "name": "New York Law School"
     },
     {
-        "id": "DickinsonCollege",
-        "name": "Dickinson_College"
+        "id": "New_York_University",
+        "name": "New York University"
     },
     {
-        "id": "NewYorkLawSchool",
-        "name": "New_York_Law_School"
+        "id": "Dickinson_College",
+        "name": "Dickinson College"
     },
     {
-        "id": "CentreforResearchandTechnologyHellas",
-        "name": "Centre_for_Research_and_Technology_Hellas"
+        "id": "Information_Technologies_Institute",
+        "name": "Information Technologies Institute"
     },
     {
-        "id": "AristotleUniversityofThessaloniki",
-        "name": "Aristotle_University_of_Thessaloniki"
+        "id": "Aristotle_University_of_Thessaloniki",
+        "name": "Aristotle University of Thessaloniki"
     },
     {
-        "id": "InformationTechnologiesInstitute",
-        "name": "Information_Technologies_Institute"
+        "id": "Centre_for_Research_and_Technology_Hellas",
+        "name": "Centre for Research and Technology Hellas"
     }
 ]
