@@ -1,0 +1,82 @@
+[
+  {
+    "from": "Inverting Visual Representations with Convolutional Networks",
+    "to": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+    "similarity": 0.6181957125663757
+  },
+  {
+    "from": "Inverting Visual Representations with Convolutional Networks",
+    "to": "Mathematical Foundations of Computing",
+    "similarity": 0.6486125588417053
+  },
+  {
+    "from": "Inverting Visual Representations with Convolutional Networks",
+    "to": "Detection of Potholes Using a Deep Convolutional Neural Network",
+    "similarity": 0.6143638491630554
+  },
+  {
+    "from": "Methods for Interpreting and Understanding Deep Neural Networks",
+    "to": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+    "similarity": 0.6022864580154419
+  },
+  {
+    "from": "Methods for Interpreting and Understanding Deep Neural Networks",
+    "to": "Mathematical Foundations of Computing",
+    "similarity": 0.6006238460540771
+  },
+  {
+    "from": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+    "to": "Inverting Visual Representations with Convolutional Networks",
+    "similarity": 0.6181957125663757
+  },
+  {
+    "from": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+    "to": "Methods for Interpreting and Understanding Deep Neural Networks",
+    "similarity": 0.6022864580154419
+  },
+  {
+    "from": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+    "to": "Mathematical Foundations of Computing",
+    "similarity": 0.6159608364105225
+  },
+  {
+    "from": "Mathematical Foundations of Computing",
+    "to": "Inverting Visual Representations with Convolutional Networks",
+    "similarity": 0.6486125588417053
+  },
+  {
+    "from": "Mathematical Foundations of Computing",
+    "to": "Methods for Interpreting and Understanding Deep Neural Networks",
+    "similarity": 0.6006238460540771
+  },
+  {
+    "from": "Mathematical Foundations of Computing",
+    "to": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+    "similarity": 0.6159608364105225
+  },
+  {
+    "from": "Adversarial Diffusion Distillation",
+    "to": "Consistency Models",
+    "similarity": 0.7083847522735596
+  },
+  {
+    "from": "Learning Transferable Visual Models From Natural Language Supervision",
+    "to": "Zero-Shot Text-to-Image Generation",
+    "similarity": 0.6362165808677673
+  },
+  {
+    "from": "Consistency Models",
+    "to": "Adversarial Diffusion Distillation",
+    "similarity": 0.7083847522735596
+  },
+  {
+    "from": "Zero-Shot Text-to-Image Generation",
+    "to": "Learning Transferable Visual Models From Natural Language Supervision",
+    "similarity": 0.6362165808677673
+  },
+  {
+    "from": "Detection of Potholes Using a Deep Convolutional Neural Network",
+    "to": "Inverting Visual Representations with Convolutional Networks",
+    "similarity": 0.6143638491630554
+  }
+]
