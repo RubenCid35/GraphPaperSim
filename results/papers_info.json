@@ -11,7 +11,7 @@
             "Tri_Wulandari"
         ],
         "institutions": [
-            "Universitas_Kanjuruhan"
+            "Universitas Kanjuruhan"
         ]
     },
     {
@@ -30,11 +30,11 @@
             "Dan_Chisholm"
         ],
         "institutions": [
-            "Kings_College_London",
-            "The_Open_University",
-            "World_Health_Organization",
-            "Federal_Ministry_of_Health",
-            "Addis_Ababa_University"
+            "The Open University",
+            "King's College London",
+            "Addis Ababa University",
+            "Federal Ministry of Health",
+            "World Health Organization"
         ]
     },
     {
@@ -48,7 +48,7 @@
             "Thomas_Brox"
         ],
         "institutions": [
-            "University_of_Freiburg"
+            "University of Freiburg"
         ]
     },
     {
@@ -63,10 +63,10 @@
             "Klaus_Robert_Mller"
         ],
         "institutions": [
-            "Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute",
-            "Technische_Universitt_Berlin",
-            "Korea_University",
-            "Max_Planck_Institute_for_Informatics"
+            "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute",
+            "Max Planck Institute for Informatics",
+            "Technische Universität Berlin",
+            "Korea University"
         ]
     },
     {
@@ -101,8 +101,8 @@
             "Dino_Pedreschi"
         ],
         "institutions": [
-            "Institute_of_Information_Science_and_Technologies",
-            "University_of_Pisa"
+            "Institute of Information Science and Technologies",
+            "University of Pisa"
         ]
     },
     {
@@ -116,7 +116,7 @@
             "Fritz_Keinert"
         ],
         "institutions": [
-            "Oregon_State_University"
+            "Oregon State University"
         ]
     },
     {
@@ -134,7 +134,7 @@
             "Lalana_Kagal"
         ],
         "institutions": [
-            "Massachusetts_Institute_of_Technology"
+            "Massachusetts Institute of Technology"
         ]
     },
     {
@@ -149,8 +149,8 @@
             "Jeff_Clune"
         ],
         "institutions": [
-            "Uber_AI_United_States",
-            "Auburn_University"
+            "Auburn University",
+            "Uber AI (United States)"
         ]
     },
     {
@@ -227,7 +227,7 @@
             "Ilya_Sutskever"
         ],
         "institutions": [
-            "OpenAI_United_States"
+            "OpenAI (United States)"
         ]
     },
     {
@@ -241,8 +241,8 @@
             "Kourosh_Gharachorloo"
         ],
         "institutions": [
-            "Rice_University",
-            "Digital_Wave_United_States"
+            "Digital Wave (United States)",
+            "Rice University"
         ]
     },
     {
@@ -262,17 +262,17 @@
             "Katarzyna_Kordas"
         ],
         "institutions": [
-            "University_of_California_Berkeley",
-            "Johns_Hopkins_University",
-            "Center_for_Environmental_Health",
-            "University_at_Buffalo_State_University_of_New_York",
-            "Southern_Methodist_University",
-            "Milken_Institute",
-            "Human_Longevity_United_States",
-            "George_Washington_University",
-            "Norwegian_University_of_Science_and_Technology",
-            "Tulane_University",
-            "University_of_California_San_Diego"
+            "Johns Hopkins University",
+            "Southern Methodist University",
+            "Norwegian University of Science and Technology",
+            "Human Longevity (United States)",
+            "University at Buffalo, State University of New York",
+            "Tulane University",
+            "University of California, Berkeley",
+            "Center for Environmental Health",
+            "Milken Institute",
+            "George Washington University",
+            "University of California, San Diego"
         ]
     },
     {
@@ -292,7 +292,7 @@
             "Ilya_Sutskever"
         ],
         "institutions": [
-            "OpenAI_United_States"
+            "OpenAI (United States)"
         ]
     },
     {
@@ -334,7 +334,7 @@
             "Todua_Nugzar"
         ],
         "institutions": [
-            "Tbilisi_State_University"
+            "Tbilisi State University"
         ]
     },
     {
@@ -351,8 +351,8 @@
             "Yulan_He"
         ],
         "institutions": [
-            "Harbin_Institute_of_Technology",
-            "University_of_Warwick"
+            "Harbin Institute of Technology",
+            "University of Warwick"
         ]
     },
     {
@@ -380,8 +380,8 @@
             "Francisco_Javier_Salgado_Parreo"
         ],
         "institutions": [
-            "Hospital_Universitario_Virgen_de_las_Nieves",
-            "Universidad_de_Granada"
+            "Hospital Universitario Virgen de las Nieves",
+            "Universidad de Granada"
         ]
     },
     {
@@ -398,11 +398,11 @@
             "Dasapta_Erwin_Irawan"
         ],
         "institutions": [
-            "Bandung_Institute_of_Technology",
-            "University_of_Regensburg",
-            "University_of_Cambridge",
-            "University_of_Toronto",
-            "Rice_University"
+            "University of Regensburg",
+            "University of Toronto",
+            "Rice University",
+            "Bandung Institute of Technology",
+            "University of Cambridge"
         ]
     },
     {
@@ -484,9 +484,9 @@
             "Sara_Gerke"
         ],
         "institutions": [
-            "New_York_University",
-            "Dickinson_College",
-            "New_York_Law_School"
+            "New York Law School",
+            "New York University",
+            "Dickinson College"
         ]
     },
     {
@@ -502,9 +502,9 @@
             "Nick_Bassiliades"
         ],
         "institutions": [
-            "Centre_for_Research_and_Technology_Hellas",
-            "Aristotle_University_of_Thessaloniki",
-            "Information_Technologies_Institute"
+            "Information Technologies Institute",
+            "Aristotle University of Thessaloniki",
+            "Centre for Research and Technology Hellas"
         ]
     },
     {
