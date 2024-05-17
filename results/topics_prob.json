@@ -1,152 +1,152 @@
 [
     {
         "id": 0,
-        "topic_id": 1,
-        "topic_prob": 0.9723291993141174
+        "topic_id": 0,
+        "topic_prob": 0.9628371000289917
     },
     {
         "id": 1,
-        "topic_id": 1,
-        "topic_prob": 0.8203462362289429
+        "topic_id": 0,
+        "topic_prob": 0.9716879725456238
     },
     {
         "id": 2,
         "topic_id": 1,
-        "topic_prob": 0.8085994720458984
+        "topic_prob": 0.9765297174453735
     },
     {
         "id": 3,
-        "topic_id": 2,
-        "topic_prob": 0.9078194499015808
+        "topic_id": 1,
+        "topic_prob": 0.8127620220184326
     },
     {
         "id": 4,
-        "topic_id": 2,
-        "topic_prob": 0.47469204664230347
+        "topic_id": 1,
+        "topic_prob": 0.669783353805542
     },
     {
         "id": 5,
-        "topic_id": 2,
-        "topic_prob": 0.975090503692627
+        "topic_id": 0,
+        "topic_prob": 0.9801641702651978
     },
     {
         "id": 6,
         "topic_id": 1,
-        "topic_prob": 0.9910580515861511
+        "topic_prob": 0.9913894534111023
     },
     {
         "id": 7,
-        "topic_id": 2,
-        "topic_prob": 0.975406289100647
+        "topic_id": 0,
+        "topic_prob": 0.7207134366035461
     },
     {
         "id": 8,
         "topic_id": 1,
-        "topic_prob": 0.9459758996963501
+        "topic_prob": 0.9263703227043152
     },
     {
         "id": 9,
         "topic_id": 1,
-        "topic_prob": 0.7178490161895752
+        "topic_prob": 0.9723098874092102
     },
     {
         "id": 10,
-        "topic_id": 2,
-        "topic_prob": 0.4690094292163849
+        "topic_id": 1,
+        "topic_prob": 0.6112036108970642
     },
     {
         "id": 11,
         "topic_id": 1,
-        "topic_prob": 0.5705963969230652
+        "topic_prob": 0.8878035545349121
     },
     {
         "id": 12,
-        "topic_id": 0,
-        "topic_prob": 0.769027829170227
+        "topic_id": 1,
+        "topic_prob": 0.579474151134491
     },
     {
         "id": 13,
         "topic_id": 0,
-        "topic_prob": 0.9706902503967285
+        "topic_prob": 0.9611273407936096
     },
     {
         "id": 14,
         "topic_id": 0,
-        "topic_prob": 0.977856457233429
+        "topic_prob": 0.976487398147583
     },
     {
         "id": 15,
-        "topic_id": 1,
-        "topic_prob": 0.9351093769073486
+        "topic_id": 0,
+        "topic_prob": 0.9402961134910583
     },
     {
         "id": 16,
         "topic_id": 0,
-        "topic_prob": 0.9503257274627686
+        "topic_prob": 0.939427375793457
     },
     {
         "id": 17,
         "topic_id": 0,
-        "topic_prob": 0.9758068323135376
+        "topic_prob": 0.9792414903640747
     },
     {
         "id": 18,
         "topic_id": 0,
-        "topic_prob": 0.9823215007781982
+        "topic_prob": 0.982050895690918
     },
     {
         "id": 19,
-        "topic_id": 2,
-        "topic_prob": 0.5308350324630737
+        "topic_id": 0,
+        "topic_prob": 0.9538090825080872
     },
     {
         "id": 20,
         "topic_id": 1,
-        "topic_prob": 0.4763029217720032
+        "topic_prob": 0.5954328775405884
     },
     {
         "id": 21,
         "topic_id": 1,
-        "topic_prob": 0.901183545589447
+        "topic_prob": 0.7721105813980103
     },
     {
         "id": 22,
-        "topic_id": 1,
-        "topic_prob": 0.8328613638877869
+        "topic_id": 0,
+        "topic_prob": 0.9030635952949524
     },
     {
         "id": 23,
         "topic_id": 0,
-        "topic_prob": 0.3333333432674408
+        "topic_prob": 0.5
     },
     {
         "id": 24,
-        "topic_id": 1,
-        "topic_prob": 0.9091345071792603
+        "topic_id": 0,
+        "topic_prob": 0.9597419500350952
     },
     {
         "id": 25,
         "topic_id": 0,
-        "topic_prob": 0.8302391767501831
+        "topic_prob": 0.8199339509010315
     },
     {
         "id": 26,
         "topic_id": 0,
-        "topic_prob": 0.7450718879699707
+        "topic_prob": 0.7894096970558167
     },
     {
         "id": 27,
-        "topic_id": 2,
-        "topic_prob": 0.9490530490875244
+        "topic_id": 0,
+        "topic_prob": 0.9365491271018982
     },
     {
         "id": 28,
-        "topic_id": 2,
-        "topic_prob": 0.9092748761177063
+        "topic_id": 1,
+        "topic_prob": 0.8657405972480774
     },
     {
         "id": 29,
-        "topic_id": 2,
-        "topic_prob": 0.9618961215019226
+        "topic_id": 0,
+        "topic_prob": 0.959969162940979
     }
 ]

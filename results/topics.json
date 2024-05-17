@@ -3,14 +3,14 @@
         "id": 0,
         "words": [
             "model",
-            "task",
-            "training",
-            "image",
-            "new",
-            "accuracy",
+            "study",
+            "system",
             "data",
-            "trained",
+            "task",
             "approach",
+            "training",
+            "used",
+            "learning",
             "also"
         ]
     },
@@ -18,30 +18,15 @@
         "id": 1,
         "words": [
             "network",
-            "study",
             "feature",
             "method",
-            "learning",
             "image",
+            "deep",
+            "proposed",
+            "neural",
+            "learning",
             "data",
-            "proposed",
-            "analysis",
             "approach"
-        ]
-    },
-    {
-        "id": 2,
-        "words": [
-            "explanation",
-            "system",
-            "work",
-            "provide",
-            "proposed",
-            "research",
-            "approach",
-            "problem",
-            "recently",
-            "show"
         ]
     }
 ]
