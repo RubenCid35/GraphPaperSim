@@ -46,15 +46,38 @@ def openalex_result(title):
         return response.json()['results'][0] if response.json()['meta']['count'] > 0 else None
     else:
         return None
+    
+
+def openaire_result(title):
+    """
+    Search for papers using OpenAire API based on the title.
+
+    INPUT:
+    - title (str): The title of the paper to search for.
+
+    OUTPUT:
+    - dict: Dictionary containing search results.
+    """
+
+    # Request URL
+    url = f"https://api.openaire.eu/search/publications?title={title}&format=json&size=1"
+
+    # GET request 
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.json()['response']['results']['result'][0]
+    else:
+        return None
 
 
 
-def extract_openalex_info(paper, paper_id):
+def extract_openalex_info(paper_openalex, paper_openaire, paper_id):
     """
     Extracts relevant information from the first search result.
 
     INPUT:
-    - paper (dict): Dictionary containing paper information.
+    - paper_openalex (dict): Dictionary containing paper information from OpenAlex.
+    - paper_openaire (dict): Dictionary containing paper information from OpenAire.
     - paper_id (int): Paper ID from results.json
 
     OUTPUT:
@@ -63,7 +86,7 @@ def extract_openalex_info(paper, paper_id):
     - list: List containing information for each institution.
     """
 
-    if paper is None:
+    if paper_openalex is None:
         return None
     
     authors_info = []
@@ -71,7 +94,7 @@ def extract_openalex_info(paper, paper_id):
 
     institutions_name_set = set()
 
-    for authorship in paper['authorships']:
+    for authorship in paper_openalex['authorships']:
         author_name = authorship['author']['display_name']
         author_id = clean_text(author_name)
         authors_id.append(author_id)
@@ -88,14 +111,16 @@ def extract_openalex_info(paper, paper_id):
     institutions_info = [{"id": clean_text(inst_name), "name": inst_name} for inst_name in institutions_name_set]
     paper_info = {
         'id': paper_id,
-        'doi': paper['doi'],
-        'title': paper['title'],
-        'language': paper['language'],
-        'publication_date': paper['publication_date'],
+        'doi': paper_openalex['doi'],
+        'title': paper_openalex['title'],
+        'language': paper_openalex['language'],
+        'publication_date': paper_openalex['publication_date'],
         'authors': authors_id,
-        'institutions': list(institutions_name_set)
+        'institutions': list(institutions_name_set),
+        'green': paper_openaire['isGreen']
     }
     return paper_info, authors_info, institutions_info
+
 
 
 def remove_duplicates(info):
@@ -139,7 +164,8 @@ def main():
     for paper in results:
         print(paper['title'])
         openalex_info = openalex_result(paper['title'].replace(',', ''))
-        paper_info, authors_info, inst_info = extract_openalex_info(openalex_info, paper['id'])
+        openaire_info = openaire_result(paper['title'].replace(',', ''))
+        paper_info, authors_info, inst_info = extract_openalex_info(openalex_info, openaire_info, paper['id'])
         all_papers_info.append(paper_info)
         all_authors_info = all_authors_info + authors_info
         all_institutions_info = all_institutions_info + inst_info

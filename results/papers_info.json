@@ -12,7 +12,8 @@
         ],
         "institutions": [
             "Universitas Kanjuruhan"
-        ]
+        ],
+        "green": false
     },
     {
         "id": 1,
@@ -30,12 +31,13 @@
             "Dan_Chisholm"
         ],
         "institutions": [
-            "The Open University",
             "King's College London",
             "Addis Ababa University",
+            "The Open University",
             "Federal Ministry of Health",
             "World Health Organization"
-        ]
+        ],
+        "green": false
     },
     {
         "id": 2,
@@ -49,7 +51,8 @@
         ],
         "institutions": [
             "University of Freiburg"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 3,
@@ -64,10 +67,11 @@
         ],
         "institutions": [
             "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute",
+            "Korea University",
             "Max Planck Institute for Informatics",
-            "Technische Universität Berlin",
-            "Korea University"
-        ]
+            "Technische Universität Berlin"
+        ],
+        "green": false
     },
     {
         "id": 4,
@@ -84,7 +88,8 @@
             "Fernanda_Vigas",
             "Rory_Sayres"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 5,
@@ -101,9 +106,10 @@
             "Dino_Pedreschi"
         ],
         "institutions": [
-            "Institute of Information Science and Technologies",
-            "University of Pisa"
-        ]
+            "University of Pisa",
+            "Institute of Information Science and Technologies"
+        ],
+        "green": false
     },
     {
         "id": 6,
@@ -117,7 +123,8 @@
         ],
         "institutions": [
             "Oregon State University"
-        ]
+        ],
+        "green": false
     },
     {
         "id": 7,
@@ -135,7 +142,8 @@
         ],
         "institutions": [
             "Massachusetts Institute of Technology"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 8,
@@ -151,7 +159,8 @@
         "institutions": [
             "Auburn University",
             "Uber AI (United States)"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 9,
@@ -165,7 +174,8 @@
             "Leonidas_J_Guibas",
             "Umut_imekli"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 10,
@@ -177,7 +187,8 @@
             "Marharyta_Domnich",
             "Ral_Vicente"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 11,
@@ -190,7 +201,8 @@
             "Ruffo_de_Freitas_Jnior",
             "Roseli_Aparecida_Francelin_Romero"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 12,
@@ -204,7 +216,8 @@
             "Andreas_Blattmann",
             "Robin_Rombach"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 13,
@@ -228,7 +241,8 @@
         ],
         "institutions": [
             "OpenAI (United States)"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 14,
@@ -241,9 +255,10 @@
             "Kourosh_Gharachorloo"
         ],
         "institutions": [
-            "Digital Wave (United States)",
-            "Rice University"
-        ]
+            "Rice University",
+            "Digital Wave (United States)"
+        ],
+        "green": false
     },
     {
         "id": 15,
@@ -262,18 +277,19 @@
             "Katarzyna_Kordas"
         ],
         "institutions": [
+            "Center for Environmental Health",
+            "University of California, Berkeley",
+            "Human Longevity (United States)",
+            "Milken Institute",
+            "University at Buffalo, State University of New York",
+            "George Washington University",
+            "University of California, San Diego",
             "Johns Hopkins University",
             "Southern Methodist University",
             "Norwegian University of Science and Technology",
-            "Human Longevity (United States)",
-            "University at Buffalo, State University of New York",
-            "Tulane University",
-            "University of California, Berkeley",
-            "Center for Environmental Health",
-            "Milken Institute",
-            "George Washington University",
-            "University of California, San Diego"
-        ]
+            "Tulane University"
+        ],
+        "green": false
     },
     {
         "id": 16,
@@ -293,7 +309,8 @@
         ],
         "institutions": [
             "OpenAI (United States)"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 17,
@@ -310,7 +327,8 @@
             "Dawn_Song",
             "Jacob_Steinhardt"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 18,
@@ -322,7 +340,8 @@
             "Denis_Havlik",
             "Marcelo_Pias"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 19,
@@ -335,7 +354,8 @@
         ],
         "institutions": [
             "Tbilisi State University"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 20,
@@ -353,7 +373,8 @@
         "institutions": [
             "Harbin Institute of Technology",
             "University of Warwick"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 21,
@@ -365,7 +386,8 @@
             "Lim_Suong",
             "JangWoo_Kwon"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": false
     },
     {
         "id": 22,
@@ -382,7 +404,8 @@
         "institutions": [
             "Hospital Universitario Virgen de las Nieves",
             "Universidad de Granada"
-        ]
+        ],
+        "green": true
     },
     {
         "id": 23,
@@ -398,12 +421,13 @@
             "Dasapta_Erwin_Irawan"
         ],
         "institutions": [
-            "University of Regensburg",
-            "University of Toronto",
-            "Rice University",
+            "University of Cambridge",
             "Bandung Institute of Technology",
-            "University of Cambridge"
-        ]
+            "Rice University",
+            "University of Toronto",
+            "University of Regensburg"
+        ],
+        "green": true
     },
     {
         "id": 24,
@@ -417,7 +441,8 @@
             "Alexandra_Leclzio",
             "Subodh_Kumar_Joshi"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 25,
@@ -428,7 +453,7 @@
         "authors": [
             "Albert_Q_Jiang",
             "Alexandre_Sablayrolles",
-            "Antoine_Roux",
+            "Andr_Roux",
             "Michel_Arthur",
             "Blanche_Savary",
             "Chris_Bamford",
@@ -453,7 +478,8 @@
             "Timothe_Lacroix",
             "William_El_Sayed"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 26,
@@ -471,7 +497,8 @@
             "ukasz_Kaiser",
             "Illia_Polosukhin"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": true
     },
     {
         "id": 27,
@@ -484,10 +511,11 @@
             "Sara_Gerke"
         ],
         "institutions": [
-            "New York Law School",
+            "Dickinson College",
             "New York University",
-            "Dickinson College"
-        ]
+            "New York Law School"
+        ],
+        "green": false
     },
     {
         "id": 28,
@@ -497,15 +525,16 @@
         "publication_date": "2023-02-14",
         "authors": [
             "Zoe_Vasileiou",
-            "Georgios_Meditskos",
+            "_",
             "Stefanos_Vrochidis",
             "Nick_Bassiliades"
         ],
         "institutions": [
             "Information Technologies Institute",
-            "Aristotle University of Thessaloniki",
-            "Centre for Research and Technology Hellas"
-        ]
+            "Centre for Research and Technology Hellas",
+            "Aristotle University of Thessaloniki"
+        ],
+        "green": true
     },
     {
         "id": 29,
@@ -519,6 +548,7 @@
             "Jie_Guan",
             "Shanchang_Hu"
         ],
-        "institutions": []
+        "institutions": [],
+        "green": false
     }
 ]
