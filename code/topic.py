@@ -80,6 +80,8 @@ def get_optimal_num_topics(corpus, dictionary, preprocessed_abstracts):
         coherence_values.append((num_topics, coherence_value))
 
     optimal_num_topics = max(coherence_values, key=lambda x: x[1])[0]
+    print("coherence:", coherence_values)
+    print()
     print(f"Optimal number of topics: {optimal_num_topics}")
     return optimal_num_topics
 
@@ -97,10 +99,7 @@ def train_lda_model(corpus, dictionary, num_topics):
     - lda_model (gensim.models.LdaModel): Trained LDA model.
     """
 
-    random_seed = 1
-    random.seed(random_seed)
-    np.random.seed(random_seed)
-    lda_model = LdaModel(corpus=corpus, id2word=dictionary, num_topics=num_topics, passes=10)
+    lda_model = LdaModel(corpus=corpus, id2word=dictionary, num_topics=num_topics, passes=10, random_state=98)
     return lda_model
 
 

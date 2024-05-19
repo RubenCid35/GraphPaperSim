@@ -729,7 +729,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/0-25>, <https://papers.knowledgegraph.org/v1/similarity/0-29>,
     <https://papers.knowledgegraph.org/v1/similarity/0-5>, <https://papers.knowledgegraph.org/v1/similarity/0-7>;
   onto:hasTitle "Utilization of whatsapp application as discussion media in blended learning";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/0-1> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/0-0> .
 
 <https://papers.knowledgegraph.org/v1/paper/1> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Caroline_Whidden>;
@@ -753,7 +753,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/1-5>, <https://papers.knowledgegraph.org/v1/similarity/1-6>,
     <https://papers.knowledgegraph.org/v1/similarity/1-7>;
   onto:hasTitle "Moving towards universal health coverage for mental disorders in Ethiopia";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/1-1> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/1-0> .
 
 <https://papers.knowledgegraph.org/v1/paper/10> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/EXAI>, <https://papers.knowledgegraph.org/v1/institutions/Estonian_Research_Council_Grants_PRG>,
@@ -777,7 +777,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/10-8>, <https://papers.knowledgegraph.org/v1/similarity/10-9>;
   onto:hasTitle """Enhancing Counterfactual Explanation Search with Diffusion Distance and
   Directional Coherence""";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/10-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/10-1> .
 
 <https://papers.knowledgegraph.org/v1/paper/11> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/CAPES>, <https://papers.knowledgegraph.org/v1/institutions/Coordenac_o_de_Aperfeic_oamento_de_Pessoal_de_Nvel_Superior_Brasil>,
@@ -802,7 +802,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/11-9>;
   onto:hasTitle """Explainable LightGBM Approach for Predicting Myocardial Infarction
   Mortality""";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/11-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/11-1> .
 
 <https://papers.knowledgegraph.org/v1/paper/12> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Frederic_Boesel>, <https://papers.knowledgegraph.org/v1/author/Harry_Saini>,
@@ -825,7 +825,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/12-6>, <https://papers.knowledgegraph.org/v1/similarity/12-7>,
     <https://papers.knowledgegraph.org/v1/similarity/12-8>, <https://papers.knowledgegraph.org/v1/similarity/12-9>;
   onto:hasTitle "Adversarial Diffusion Distillation";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/12-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/12-3> .
 
 <https://papers.knowledgegraph.org/v1/paper/13> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Gillian_Hadfield>, <https://papers.knowledgegraph.org/v1/author/Irene_Solai>,
@@ -856,7 +856,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/13-7>, <https://papers.knowledgegraph.org/v1/similarity/13-8>,
     <https://papers.knowledgegraph.org/v1/similarity/13-9>;
   onto:hasTitle "Learning Transferable Visual Models From Natural Language Supervision";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/13-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/13-3> .
 
 <https://papers.knowledgegraph.org/v1/paper/14> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Alex_Nichol>, <https://papers.knowledgegraph.org/v1/author/Chenlin_Men>,
@@ -880,7 +880,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/14-6>, <https://papers.knowledgegraph.org/v1/similarity/14-7>,
     <https://papers.knowledgegraph.org/v1/similarity/14-8>, <https://papers.knowledgegraph.org/v1/similarity/14-9>;
   onto:hasTitle "Shared memory consistency models: a tutorial";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/14-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/14-3> .
 
 <https://papers.knowledgegraph.org/v1/paper/15> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Eduardo_Gonzalez>, <https://papers.knowledgegraph.org/v1/author/Jermesha_Smith>,
@@ -912,7 +912,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/15-29>, <https://papers.knowledgegraph.org/v1/similarity/15-4>,
     <https://papers.knowledgegraph.org/v1/similarity/15-5>;
   onto:hasTitle "COVID-19 and children's health in the United States: Consideration of physical and social environments during the pandemic";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/15-1> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/15-2> .
 
 <https://papers.knowledgegraph.org/v1/paper/16> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Heewoo_Jun>, <https://papers.knowledgegraph.org/v1/author/John_Schulman>,
@@ -939,7 +939,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/16-7>, <https://papers.knowledgegraph.org/v1/similarity/16-8>,
     <https://papers.knowledgegraph.org/v1/similarity/16-9>;
   onto:hasTitle "Zero-Shot Text-to-Image Generation";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/16-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/16-2> .
 
 <https://papers.knowledgegraph.org/v1/paper/17> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Alex_Tamkin>, <https://papers.knowledgegraph.org/v1/author/David_Krueger>,
@@ -968,7 +968,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/17-6>, <https://papers.knowledgegraph.org/v1/similarity/17-7>,
     <https://papers.knowledgegraph.org/v1/similarity/17-8>, <https://papers.knowledgegraph.org/v1/similarity/17-9>;
   onto:hasTitle "Measuring Massive Multitask Language Understanding";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/17-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/17-2> .
 
 <https://papers.knowledgegraph.org/v1/paper/18> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/MAIA>;
@@ -991,7 +991,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/18-9>;
   onto:hasTitle """Common errors in Generative AI systems used for knowledge extraction in
   the climate action domain""";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/18-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/18-3> .
 
 <https://papers.knowledgegraph.org/v1/paper/19> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/European_Union>;
@@ -1004,7 +1004,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/19-24>, <https://papers.knowledgegraph.org/v1/similarity/19-27>,
     <https://papers.knowledgegraph.org/v1/similarity/19-5>;
   onto:hasTitle "Perceptions of Georgian consumers about healthy  nutrition";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/19-1> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/19-0> .
 
 <https://papers.knowledgegraph.org/v1/paper/2> onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Aravindh_Mahendran>,
     <https://papers.knowledgegraph.org/v1/author/Jost_Tobias_Springenberg>, <https://papers.knowledgegraph.org/v1/author/Mahendran>,
@@ -1053,7 +1053,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/20-7>, <https://papers.knowledgegraph.org/v1/similarity/20-8>,
     <https://papers.knowledgegraph.org/v1/similarity/20-9>;
   onto:hasTitle "Multi Task Mutual Learning for Joint Sentiment Classification and Topic Detection";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/20-3> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/20-2> .
 
 <https://papers.knowledgegraph.org/v1/paper/21> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/INHA_UNIVERSITY_Research_Grant>;
@@ -1074,7 +1074,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/21-7>, <https://papers.knowledgegraph.org/v1/similarity/21-8>,
     <https://papers.knowledgegraph.org/v1/similarity/21-9>;
   onto:hasTitle "Detection of Potholes Using a Deep Convolutional Neural Network.";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/21-3> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/21-2> .
 
 <https://papers.knowledgegraph.org/v1/paper/22> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/Health_Agency_of_Health_South>,
@@ -1097,7 +1097,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/22-4>, <https://papers.knowledgegraph.org/v1/similarity/22-5>,
     <https://papers.knowledgegraph.org/v1/similarity/22-6>, <https://papers.knowledgegraph.org/v1/similarity/22-7>;
   onto:hasTitle "Association of cardiovascular emerging risk factors with acute coronary syndrome and stroke: A case‐control study";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/22-1> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/22-0> .
 
 <https://papers.knowledgegraph.org/v1/paper/23> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Hillel_Chiel>, <https://papers.knowledgegraph.org/v1/author/Michael_Eise>;
@@ -1141,7 +1141,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/24-26>, <https://papers.knowledgegraph.org/v1/similarity/24-29>,
     <https://papers.knowledgegraph.org/v1/similarity/24-5>, <https://papers.knowledgegraph.org/v1/similarity/24-7>;
   onto:hasTitle "An insight of medical students on the use of lectures in the curriculum: A pilot study";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/24-1> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/24-2> .
 
 <https://papers.knowledgegraph.org/v1/paper/25> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/CoreWeave>, <https://papers.knowledgegraph.org/v1/institutions/LLM>,
@@ -1176,7 +1176,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/25-6>, <https://papers.knowledgegraph.org/v1/similarity/25-7>,
     <https://papers.knowledgegraph.org/v1/similarity/25-8>, <https://papers.knowledgegraph.org/v1/similarity/25-9>;
   onto:hasTitle "Mixtral of Experts";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/25-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/25-3> .
 
 <https://papers.knowledgegraph.org/v1/paper/26> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Nal_Kalchbrenner>, <https://papers.knowledgegraph.org/v1/author/Stephan_Gouws>;
@@ -1201,7 +1201,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/26-7>, <https://papers.knowledgegraph.org/v1/similarity/26-8>,
     <https://papers.knowledgegraph.org/v1/similarity/26-9>;
   onto:hasTitle "Attention Is All You Need";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/26-0> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/26-3> .
 
 <https://papers.knowledgegraph.org/v1/paper/27> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/European_Union>,
@@ -1230,7 +1230,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/27-7>, <https://papers.knowledgegraph.org/v1/similarity/27-8>,
     <https://papers.knowledgegraph.org/v1/similarity/27-9>;
   onto:hasTitle "The proposed EU Directives for AI liability leave worrying gaps likely to impact medical AI";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/27-2> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/27-0> .
 
 <https://papers.knowledgegraph.org/v1/paper/28> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/European_Commission>,
@@ -1257,7 +1257,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/28-6>, <https://papers.knowledgegraph.org/v1/similarity/28-7>,
     <https://papers.knowledgegraph.org/v1/similarity/28-8>, <https://papers.knowledgegraph.org/v1/similarity/28-9>;
   onto:hasTitle "An Explainable Intervention Prediction for Trauma Patients";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/28-2> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/28-1> .
 
 <https://papers.knowledgegraph.org/v1/paper/29> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Daoyu_Zhang>;
@@ -1276,7 +1276,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/29-4>, <https://papers.knowledgegraph.org/v1/similarity/29-5>,
     <https://papers.knowledgegraph.org/v1/similarity/29-6>, <https://papers.knowledgegraph.org/v1/similarity/29-7>;
   onto:hasTitle "Unusual Features of the SARS-CoV-2 Genome Suggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of Its Probable Synthetic Route";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/29-2> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/29-3> .
 
 <https://papers.knowledgegraph.org/v1/paper/3> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Alexander_Binder>, <https://papers.knowledgegraph.org/v1/author/Sebastian__Lapuschkin>,
@@ -1303,7 +1303,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/3-7>, <https://papers.knowledgegraph.org/v1/similarity/3-8>,
     <https://papers.knowledgegraph.org/v1/similarity/3-9>;
   onto:hasTitle "Methods for interpreting and understanding deep neural networks";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/3-2> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/3-1> .
 
 <https://papers.knowledgegraph.org/v1/paper/4> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Alexander_Mordvintsev>,
@@ -1332,7 +1332,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/4-7>, <https://papers.knowledgegraph.org/v1/similarity/4-8>,
     <https://papers.knowledgegraph.org/v1/similarity/4-9>;
   onto:hasTitle "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/4-3> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/4-1> .
 
 <https://papers.knowledgegraph.org/v1/paper/5> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/European_Community>;
@@ -1359,7 +1359,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/5-7>, <https://papers.knowledgegraph.org/v1/similarity/5-8>,
     <https://papers.knowledgegraph.org/v1/similarity/5-9>;
   onto:hasTitle "A Survey of Methods for Explaining Black Box Models";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/5-2> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/5-0> .
 
 <https://papers.knowledgegraph.org/v1/paper/6> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/NSF_C>;
@@ -1409,7 +1409,7 @@
     <https://papers.knowledgegraph.org/v1/similarity/7-6>, <https://papers.knowledgegraph.org/v1/similarity/7-8>,
     <https://papers.knowledgegraph.org/v1/similarity/7-9>;
   onto:hasTitle "Explaining Explanations: An Overview of Interpretability of Machine Learning";
-  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/7-2> .
+  onto:hasTopic <https://papers.knowledgegraph.org/v1/topic-assig/7-0> .
 
 <https://papers.knowledgegraph.org/v1/paper/8> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Anh_Nguyen>, <https://papers.knowledgegraph.org/v1/institutions/Adobe_Systems_Inc>,
@@ -4295,125 +4295,125 @@
   onto:isSimilarTo "https://papers.knowledgegraph.org/v1/paper/8"^^xsd:URI;
   onto:score "0.4634034037590027"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/0-1> a onto:TopicAssign;
+<https://papers.knowledgegraph.org/v1/topic-assig/0-0> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
+  onto:score "0.9713492393493652"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/1-0> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
+  onto:score "0.9707282185554504"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/10-1> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.9708824157714844"^^xsd:float .
+  onto:score "0.4805041253566742"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/1-1> a onto:TopicAssign;
+<https://papers.knowledgegraph.org/v1/topic-assig/11-1> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.9706476926803589"^^xsd:float .
+  onto:score "0.9732125401496887"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/10-0> a onto:TopicAssign;
+<https://papers.knowledgegraph.org/v1/topic-assig/12-3> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
+  onto:score "0.7442131042480469"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/13-3> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
+  onto:score "0.4936182200908661"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/14-3> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
+  onto:score "0.9757277965545654"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/15-2> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
+  onto:score "0.9286154508590698"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/16-2> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
+  onto:score "0.6220905780792236"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/17-2> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
+  onto:score "0.9739416241645813"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/18-3> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
+  onto:score "0.8874605298042297"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/19-0> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.7502776980400085"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/11-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.5096415877342224"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/12-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.7369917631149292"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/13-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.7059663534164429"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/14-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.975987434387207"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/15-1> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.9298135042190552"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/16-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.9478670954704285"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/17-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.973734974861145"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/18-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.9815275073051453"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/19-1> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.4899095594882965"^^xsd:float .
+  onto:score "0.9441631436347961"^^xsd:float .
 
 <https://papers.knowledgegraph.org/v1/topic-assig/2-1> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.78827965259552"^^xsd:float .
+  onto:score "0.974387526512146"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/20-3> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
-  onto:score "0.9716676473617554"^^xsd:float .
+<https://papers.knowledgegraph.org/v1/topic-assig/20-2> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
+  onto:score "0.9712949395179749"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/21-3> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
-  onto:score "0.8201897144317627"^^xsd:float .
+<https://papers.knowledgegraph.org/v1/topic-assig/21-2> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
+  onto:score "0.7404496073722839"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/22-1> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.814111590385437"^^xsd:float .
+<https://papers.knowledgegraph.org/v1/topic-assig/22-0> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
+  onto:score "0.7743304371833801"^^xsd:float .
 
 <https://papers.knowledgegraph.org/v1/topic-assig/23-0> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
   onto:score "0.25"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/24-1> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.8577558994293213"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/25-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.949608325958252"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/26-0> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
-  onto:score "0.6966796517372131"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/27-2> a onto:TopicAssign;
+<https://papers.knowledgegraph.org/v1/topic-assig/24-2> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
-  onto:score "0.9448139071464539"^^xsd:float .
+  onto:score "0.9708905220031738"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/28-2> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
-  onto:score "0.903139054775238"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/29-2> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
-  onto:score "0.9591524600982666"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/3-2> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
-  onto:score "0.8616249561309814"^^xsd:float .
-
-<https://papers.knowledgegraph.org/v1/topic-assig/4-3> a onto:TopicAssign;
+<https://papers.knowledgegraph.org/v1/topic-assig/25-3> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
-  onto:score "0.9715318083763123"^^xsd:float .
+  onto:score "0.9508633613586426"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/5-2> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
-  onto:score "0.6690582036972046"^^xsd:float .
+<https://papers.knowledgegraph.org/v1/topic-assig/26-3> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
+  onto:score "0.9797466397285461"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/27-0> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
+  onto:score "0.9445765614509583"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/28-1> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
+  onto:score "0.7423872947692871"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/29-3> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/3>;
+  onto:score "0.9582739472389221"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/3-1> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
+  onto:score "0.6942306756973267"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/4-1> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
+  onto:score "0.5421075224876404"^^xsd:float .
+
+<https://papers.knowledgegraph.org/v1/topic-assig/5-0> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
+  onto:score "0.9781284928321838"^^xsd:float .
 
 <https://papers.knowledgegraph.org/v1/topic-assig/6-1> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.9910469651222229"^^xsd:float .
+  onto:score "0.9911432266235352"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic-assig/7-2> a onto:TopicAssign;
-  onto:assign <https://papers.knowledgegraph.org/v1/topic/2>;
-  onto:score "0.975951611995697"^^xsd:float .
+<https://papers.knowledgegraph.org/v1/topic-assig/7-0> a onto:TopicAssign;
+  onto:assign <https://papers.knowledgegraph.org/v1/topic/0>;
+  onto:score "0.5858387351036072"^^xsd:float .
 
 <https://papers.knowledgegraph.org/v1/topic-assig/8-1> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.9407075047492981"^^xsd:float .
+  onto:score "0.9384541511535645"^^xsd:float .
 
 <https://papers.knowledgegraph.org/v1/topic-assig/9-1> a onto:TopicAssign;
   onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
-  onto:score "0.6521567702293396"^^xsd:float .
+  onto:score "0.9788759350776672"^^xsd:float .
 
 <https://papers.knowledgegraph.org/v1/topic/0> a onto:Topic .
 

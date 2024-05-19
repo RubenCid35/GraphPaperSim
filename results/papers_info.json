@@ -30,11 +30,11 @@
             "Dan_Chisholm"
         ],
         "institutions": [
-            "Kings_College_London",
-            "The_Open_University",
-            "World_Health_Organization",
             "Addis_Ababa_University",
-            "Federal_Ministry_of_Health"
+            "The_Open_University",
+            "Federal_Ministry_of_Health",
+            "World_Health_Organization",
+            "Kings_College_London"
         ]
     },
     {
@@ -63,10 +63,10 @@
             "Klaus_Robert_Mller"
         ],
         "institutions": [
-            "Korea_University",
-            "Max_Planck_Institute_for_Informatics",
             "Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute",
-            "Technische_Universitt_Berlin"
+            "Max_Planck_Institute_for_Informatics",
+            "Technische_Universitt_Berlin",
+            "Korea_University"
         ]
     },
     {
@@ -262,17 +262,17 @@
             "Katarzyna_Kordas"
         ],
         "institutions": [
-            "Southern_Methodist_University",
-            "University_of_California_San_Diego",
-            "George_Washington_University",
-            "Milken_Institute",
-            "Johns_Hopkins_University",
-            "Human_Longevity_United_States",
-            "Tulane_University",
-            "Center_for_Environmental_Health",
-            "Norwegian_University_of_Science_and_Technology",
             "University_of_California_Berkeley",
-            "University_at_Buffalo_State_University_of_New_York"
+            "Center_for_Environmental_Health",
+            "Johns_Hopkins_University",
+            "George_Washington_University",
+            "University_at_Buffalo_State_University_of_New_York",
+            "Tulane_University",
+            "Human_Longevity_United_States",
+            "Southern_Methodist_University",
+            "Norwegian_University_of_Science_and_Technology",
+            "Milken_Institute",
+            "University_of_California_San_Diego"
         ]
     },
     {
@@ -351,8 +351,8 @@
             "Yulan_He"
         ],
         "institutions": [
-            "University_of_Warwick",
-            "Harbin_Institute_of_Technology"
+            "Harbin_Institute_of_Technology",
+            "University_of_Warwick"
         ]
     },
     {
@@ -380,8 +380,8 @@
             "Francisco_Javier_Salgado_Parreo"
         ],
         "institutions": [
-            "Universidad_de_Granada",
-            "Hospital_Universitario_Virgen_de_las_Nieves"
+            "Hospital_Universitario_Virgen_de_las_Nieves",
+            "Universidad_de_Granada"
         ]
     },
     {
@@ -399,10 +399,10 @@
         ],
         "institutions": [
             "University_of_Cambridge",
-            "Bandung_Institute_of_Technology",
             "University_of_Toronto",
             "Rice_University",
-            "University_of_Regensburg"
+            "University_of_Regensburg",
+            "Bandung_Institute_of_Technology"
         ]
     },
     {
@@ -484,8 +484,8 @@
             "Sara_Gerke"
         ],
         "institutions": [
-            "Dickinson_College",
             "New_York_University",
+            "Dickinson_College",
             "New_York_Law_School"
         ]
     },
@@ -502,9 +502,9 @@
             "Nick_Bassiliades"
         ],
         "institutions": [
+            "Aristotle_University_of_Thessaloniki",
             "Centre_for_Research_and_Technology_Hellas",
-            "Information_Technologies_Institute",
-            "Aristotle_University_of_Thessaloniki"
+            "Information_Technologies_Institute"
         ]
     },
     {
