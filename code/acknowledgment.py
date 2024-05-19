@@ -20,6 +20,13 @@ def load_results(file_path):
         data = json.load(f)
     return data
 
+def clean_text(text):
+    # Eliminar caracteres especiales excepto el espacio
+    cleaned_text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
+    # Reemplazar espacios por guiones bajos
+    cleaned_text = cleaned_text.replace(' ', '_')
+    return cleaned_text
+
 def filtrar_entidades_por_score_y_etiquetas(lista, score_umbral, acknowledgment, indice):
     """
     Filtra las entidades de una lista según el score y las etiquetas especificadas.
@@ -28,7 +35,6 @@ def filtrar_entidades_por_score_y_etiquetas(lista, score_umbral, acknowledgment,
     - lista (list): Lista de diccionarios, cada uno representando una entidad con las siguientes claves:
                     'entity', 'score', 'index', 'word', 'start', 'end'.
     - score_umbral (float): Umbral para el score. Se mantienen las entidades con score mayor a este valor.
-
     Returns:
     - dict: Diccionario donde las claves son las etiquetas y los valores son listas de palabras correspondientes a esas etiquetas.
     """
@@ -50,7 +56,7 @@ def filtrar_entidades_por_score_y_etiquetas(lista, score_umbral, acknowledgment,
                 else:
                     continua = False
                     
-            output[categoria].append(acknowledgment[inicio:final])
+            output[categoria].append(clean_text(acknowledgment[inicio:final]))
         
         else:
             lista.pop(0)

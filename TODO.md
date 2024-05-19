@@ -4,7 +4,7 @@
 2. [x] Crear Ontología o esquema del grafo de conocimiento creado
 3. [x] Extraer los campos necesarios usando `Grobid` de las publicaciones subidas
 4.  Uso del abstracto: 
-    * [ ] Clustering de las publicaciones
+    * [x] Similaridad entre las publicaciones
     * [x] Extracción de temas usando topic modeling. 
 5. [x] Extraer personas / entidades mencionadas en los *acknoledgements*
 6. [ ] Generar el grafo de conocimiento a partir los datos extraidos previamente.

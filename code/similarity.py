@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, AutoModel
 
 from numpy.typing import NDArray
 from collections import namedtuple
-from typing import Dict, List, Union
+from typing import List
 
 import json
 import warnings
@@ -81,7 +81,6 @@ def get_similar_papers(emb: List[NDArray], thress = 0.7) -> List[SimilarResult]:
             similar_matrix[i][j] = dis
             similar_matrix[j][i] = dis
 
-    # print(np.array2string(similar_matrix, max_line_width=400, precision=3, edgeitems=15, floatmode = 'fixed', suppress_small=True))
     np.fill_diagonal(similar_matrix, 0) # disable the matrix diagonal. so there are no circular connections in the results
     similar = np.argwhere(similar_matrix >= thress)
     
@@ -103,13 +102,13 @@ def main():
     embeddings = get_embeddings(encoder, model, abstracts)
 
     # Get similarity
-    thress = .6
+    thress = .0001
     similar_papers = get_similar_papers(embeddings, thress = thress)    
 
     # result
     results = []
     for pair in similar_papers:
-        result = { "from": abstracts[pair.fr]['title'], "to": abstracts[pair.to]['title'], "similarity": pair.score }
+        result = { "from": abstracts[pair.fr]['id'], "to": abstracts[pair.to]['id'], "similarity": pair.score }
         results.append(result)
         
         if DEBUG:

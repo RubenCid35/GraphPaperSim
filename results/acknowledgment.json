@@ -3,12 +3,12 @@
         "ID": 0,
         "PER": [],
         "ORG": [
-            "Lembaga Penelitian dan Pengabdian Masyarakat",
+            "Lembaga_Penelitian_dan_Pengabdian_Masyarakat",
             "LPPM",
-            "Kanjuruhan University",
-            "Mathematics Education Department",
-            "Science and Technology Faculty",
-            "Kanjuruhan University"
+            "Kanjuruhan_University",
+            "Mathematics_Education_Department",
+            "Science_and_Technology_Faculty",
+            "Kanjuruhan_University"
         ],
         "LOC": [],
         "MISC": []
@@ -16,7 +16,7 @@
     {
         "ID": 1,
         "PER": [
-            "Caroline Whidden"
+            "Caroline_Whidden"
         ],
         "ORG": [],
         "LOC": [
@@ -27,13 +27,13 @@
     {
         "ID": 2,
         "PER": [
-            "Aravindh Mahendran",
+            "Aravindh_Mahendran",
             "Mahendran",
             "Vedald",
-            "Jost Tobias Springenberg"
+            "Jost_Tobias_Springenberg"
         ],
         "ORG": [
-            "ERC Starting Grant VideoLearn"
+            "ERC_Starting_Grant_VideoLearn"
         ],
         "LOC": [],
         "MISC": []
@@ -41,15 +41,15 @@
     {
         "ID": 3,
         "PER": [
-            "Sebastian  Lapuschkin",
-            "Alexander Binder"
+            "Sebastian__Lapuschkin",
+            "Alexander_Binder"
         ],
         "ORG": [
-            "Brain Korea 21 Plus Program",
-            "National Research Foundation of Korea",
-            "Institute for Information & Communications Technology Promotion",
+            "Brain_Korea_21_Plus_Program",
+            "National_Research_Foundation_of_Korea",
+            "Institute_for_Information__Communications_Technology_Promotion",
             "IITP",
-            "Deutsche Forschungsgemeinschaft",
+            "Deutsche_Forschungsgemeinschaft",
             "DFG",
             "BBDC"
         ],
@@ -63,16 +63,16 @@
     {
         "ID": 4,
         "PER": [
-            "Daniel Smilkov",
-            "Alexander Mordvintsev",
-            "Ethan R Elenberg",
-            "David Alvarez Melis",
-            "Alexander Mordvintsev",
-            "Chris Olah",
-            "Ludwig Schubert",
+            "Daniel_Smilkov",
+            "Alexander_Mordvintsev",
+            "Ethan_R_Elenberg",
+            "David_Alvarez_Melis",
+            "Alexander_Mordvintsev",
+            "Chris_Olah",
+            "Ludwig_Schubert",
             "Christopher",
-            "Nicholas Carlini",
-            "Zahra Rastegar"
+            "Nicholas_Carlini",
+            "Zahra_Rastegar"
         ],
         "ORG": [
             "DeepDream"
@@ -84,7 +84,7 @@
         "ID": 5,
         "PER": [],
         "ORG": [
-            "European Community"
+            "European_Community"
         ],
         "LOC": [],
         "MISC": []
@@ -93,7 +93,7 @@
         "ID": 6,
         "PER": [],
         "ORG": [
-            "NSF C"
+            "NSF_C"
         ],
         "LOC": [],
         "MISC": []
@@ -101,14 +101,14 @@
     {
         "ID": 7,
         "PER": [
-            "Jonathan Frankle"
+            "Jonathan_Frankle"
         ],
         "ORG": [
-            "DARPA XA",
-            "National Science Foundation",
+            "DARPA_XA",
+            "National_Science_Foundation",
             "MIT",
-            "IBM Watson AI Lab",
-            "Toyota Research Institute",
+            "IBM_Watson_AI_Lab",
+            "Toyota_Research_Institute",
             "TRI"
         ],
         "LOC": [],
@@ -117,12 +117,12 @@
     {
         "ID": 8,
         "PER": [
-            "Anh Nguyen"
+            "Anh_Nguyen"
         ],
         "ORG": [
-            "Amazon Research Credits",
-            "Auburn University",
-            "Adobe Systems Inc",
+            "Amazon_Research_Credits",
+            "Auburn_University",
+            "Adobe_Systems_Inc",
             "Nvidia"
         ],
         "LOC": [],
@@ -131,11 +131,11 @@
     {
         "ID": 9,
         "PER": [
-            "Umut Şimşekli"
+            "Umut_imekli"
         ],
         "ORG": [
-            "Agence Nationale de la Recherche",
-            "Investissements d'avenir"
+            "Agence_Nationale_de_la_Recherche",
+            "Investissements_davenir"
         ],
         "LOC": [],
         "MISC": [
@@ -146,14 +146,14 @@
         "ID": 10,
         "PER": [],
         "ORG": [
-            "Estonian Research Council Grants PRG",
-            "European Union",
+            "Estonian_Research_Council_Grants_PRG",
+            "European_Union",
             "EXAI"
         ],
         "LOC": [],
         "MISC": [
-            "Horizon 2020 Research and Innovation Programme",
-            "Grant Agreement No. 952060 (Trust AI",
+            "Horizon_2020_Research_and_Innovation_Programme",
+            "Grant_Agreement_No_952060_Trust_AI",
             "Estonian"
         ]
     },
@@ -161,9 +161,9 @@
         "ID": 11,
         "PER": [],
         "ORG": [
-            "Coordenac ¸ão de Aperfeic ¸oamento de Pessoal de Nível Superior -Brasil",
+            "Coordenac_o_de_Aperfeic_oamento_de_Pessoal_de_Nvel_Superior_Brasil",
             "CAPES",
-            "Fundac ¸ão de Amparo à Pesquisa do Estado de São Paulo",
+            "Fundac_o_de_Amparo__Pesquisa_do_Estado_de_So_Paulo",
             "FAPESP"
         ],
         "LOC": [],
@@ -172,14 +172,14 @@
     {
         "ID": 12,
         "PER": [
-            "Jonas Müller",
-            "Patrick Esser",
-            "Frederic Boesel",
-            "Richard Vencu",
-            "Harry Saini",
-            "Sami Kama",
-            "Yara Wald",
-            "Vanessa Sauer"
+            "Jonas_Mller",
+            "Patrick_Esser",
+            "Frederic_Boesel",
+            "Richard_Vencu",
+            "Harry_Saini",
+            "Sami_Kama",
+            "Yara_Wald",
+            "Vanessa_Sauer"
         ],
         "ORG": [],
         "LOC": [],
@@ -188,11 +188,11 @@
     {
         "ID": 13,
         "PER": [
-            "Susan Zhang",
-            "Ishaan Gulraj",
-            "Irene Solai",
-            "Miles Brunda",
-            "Gillian Hadfield"
+            "Susan_Zhang",
+            "Ishaan_Gulraj",
+            "Irene_Solai",
+            "Miles_Brunda",
+            "Gillian_Hadfield"
         ],
         "ORG": [
             "CLIP",
@@ -206,11 +206,11 @@
     {
         "ID": 14,
         "PER": [
-            "Alex Nichol",
-            "Chenlin Men"
+            "Alex_Nichol",
+            "Chenlin_Men"
         ],
         "ORG": [
-            "OpenAI Algorithms"
+            "OpenAI_Algorithms"
         ],
         "LOC": [],
         "MISC": []
@@ -218,9 +218,9 @@
     {
         "ID": 15,
         "PER": [
-            "Jermesha Smith",
-            "Meghan Ryan",
-            "Eduardo Gonzalez"
+            "Jermesha_Smith",
+            "Meghan_Ryan",
+            "Eduardo_Gonzalez"
         ],
         "ORG": [
             "LCPC"
@@ -231,12 +231,12 @@
     {
         "ID": 16,
         "PER": [
-            "Matthew Knight",
-            "Rewon Child",
-            "John Schulman",
-            "Heewoo Jun",
-            "Prafulla Dhariwal",
-            "Jong Wook Kim"
+            "Matthew_Knight",
+            "Rewon_Child",
+            "John_Schulman",
+            "Heewoo_Jun",
+            "Prafulla_Dhariwal",
+            "Jong_Wook_Kim"
         ],
         "ORG": [],
         "LOC": [],
@@ -245,17 +245,17 @@
     {
         "ID": 17,
         "PER": [
-            "Oyvind Tafjord",
-            "Jan Leike",
-            "David Krueger",
-            "Alex Tamkin",
-            "Girish Sastry",
-            "Henry Zhu"
+            "Oyvind_Tafjord",
+            "Jan_Leike",
+            "David_Krueger",
+            "Alex_Tamkin",
+            "Girish_Sastry",
+            "Henry_Zhu"
         ],
         "ORG": [
             "DH",
-            "NSF GRFP Fellowship",
-            "NSF Frontier Award"
+            "NSF_GRFP_Fellowship",
+            "NSF_Frontier_Award"
         ],
         "LOC": [],
         "MISC": []
@@ -275,7 +275,7 @@
         "ID": 19,
         "PER": [],
         "ORG": [
-            "European Union"
+            "European_Union"
         ],
         "LOC": [
             "Georgia"
@@ -287,9 +287,9 @@
         "PER": [],
         "ORG": [
             "EPSRC",
-            "Innovate UK",
-            "National Natural Science Foundation of China",
-            "Shenzhen Foundational Research Funding JC"
+            "Innovate_UK",
+            "National_Natural_Science_Foundation_of_China",
+            "Shenzhen_Foundational_Research_Funding_JC"
         ],
         "LOC": [],
         "MISC": [
@@ -300,7 +300,7 @@
         "ID": 21,
         "PER": [],
         "ORG": [
-            "INHA UNIVERSITY Research Grant"
+            "INHA_UNIVERSITY_Research_Grant"
         ],
         "LOC": [],
         "MISC": []
@@ -309,9 +309,9 @@
         "ID": 22,
         "PER": [],
         "ORG": [
-            "Health Agency of Health South",
-            "Secretariat of State for Research, Development and Innovation",
-            "Ministry of Economy and Competitiveness"
+            "Health_Agency_of_Health_South",
+            "Secretariat_of_State_for_Research_Development_and_Innovation",
+            "Ministry_of_Economy_and_Competitiveness"
         ],
         "LOC": [
             "Grenada",
@@ -323,8 +323,8 @@
     {
         "ID": 23,
         "PER": [
-            "Hillel Chiel",
-            "Michael Eise"
+            "Hillel_Chiel",
+            "Michael_Eise"
         ],
         "ORG": [],
         "LOC": [],
@@ -333,16 +333,16 @@
     {
         "ID": 24,
         "PER": [
-            "RPN Singh",
-            "Namrata Chhabra",
-            "Sushil Dawka",
-            "Seewoosagur Ramgoolam Medical College",
-            "Brijesh Sathian"
+            "RPN_Singh",
+            "Namrata_Chhabra",
+            "Sushil_Dawka",
+            "Seewoosagur_Ramgoolam_Medical_College",
+            "Brijesh_Sathian"
         ],
         "ORG": [],
         "LOC": [
             "Mauritius",
-            "Rumailah Hospital",
+            "Rumailah_Hospital",
             "Doha",
             "Qatar"
         ],
@@ -356,7 +356,7 @@
             "Scaleway",
             "NVIDIA",
             "LLM",
-            "Triton and working alongside us to make a sparse mixture of experts compatible with TensorRT",
+            "Triton_and_working_alongside_us_to_make_a_sparse_mixture_of_experts_compatible_with_TensorRT",
             "LLM"
         ],
         "LOC": [],
@@ -365,8 +365,8 @@
     {
         "ID": 26,
         "PER": [
-            "Nal Kalchbrenner",
-            "Stephan Gouws"
+            "Nal_Kalchbrenner",
+            "Stephan_Gouws"
         ],
         "ORG": [],
         "LOC": [],
@@ -376,33 +376,33 @@
         "ID": 27,
         "PER": [],
         "ORG": [
-            "European Union",
-            "European Union",
-            "Health and Digital Executive Agency",
-            "European Union",
-            "S.G.",
-            "European Union",
-            "National Institute of Biomedical Imaging and Bioengineering",
+            "European_Union",
+            "European_Union",
+            "Health_and_Digital_Executive_Agency",
+            "European_Union",
+            "SG",
+            "European_Union",
+            "National_Institute_of_Biomedical_Imaging_and_Bioengineering",
             "NIBIB",
-            "National Institutes of Health",
-            "Rock Ethics Institute",
-            "Penn State University"
+            "National_Institutes_of_Health",
+            "Rock_Ethics_Institute",
+            "Penn_State_University"
         ],
         "LOC": [],
         "MISC": [
-            "Grant Agreement",
-            "Grant Agreement",
-            "Grant Agreement"
+            "Grant_Agreement",
+            "Grant_Agreement",
+            "Grant_Agreement"
         ]
     },
     {
         "ID": 28,
         "PER": [],
         "ORG": [
-            "European Union",
-            "Research Executive Agency",
+            "European_Union",
+            "Research_Executive_Agency",
             "REA",
-            "European Commission"
+            "European_Commission"
         ],
         "LOC": [],
         "MISC": []
@@ -410,13 +410,13 @@
     {
         "ID": 29,
         "PER": [
-            "Daoyu Zhang"
+            "Daoyu_Zhang"
         ],
         "ORG": [],
         "LOC": [],
         "MISC": [
             "E",
-            "SARS-CoV-2"
+            "SARSCoV2"
         ]
     }
 ]

@@ -151,7 +151,7 @@ def main():
     lda_model = train_lda_model(corpus, dictionary, optimal_num_topics)
 
     # Explore the results
-    topics_list = [{"id": i, "words": [word for word, _ in lda_model.show_topic(i)]} for i in range(optimal_num_topics)]
+    topics_list = [{"id": i, "words": ", ".join([word for word, _ in lda_model.show_topic(i)])} for i in range(optimal_num_topics)]
     
     # Save the topics to a JSON file
     with open(topics_json_file, 'w', encoding='utf-8') as f:

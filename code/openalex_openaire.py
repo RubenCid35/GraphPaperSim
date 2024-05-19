@@ -2,6 +2,8 @@ import requests
 import json
 import re
 
+from tqdm import tqdm
+
 
 def load_results(file_path):
     """
@@ -47,8 +49,6 @@ def openalex_result(title):
     else:
         return None
 
-
-
 def extract_openalex_info(paper, paper_id):
     """
     Extracts relevant information from the first search result.
@@ -70,6 +70,7 @@ def extract_openalex_info(paper, paper_id):
     authors_id = []
 
     institutions_name_set = set()
+    institutions_id_set   = set()
 
     for authorship in paper['authorships']:
         author_name = authorship['author']['display_name']
@@ -82,6 +83,7 @@ def extract_openalex_info(paper, paper_id):
         # Agregar información de instituciones al conjunto
         for inst in institutions_name:
             institutions_name_set.add(inst)
+            institutions_id_set.add(clean_text(inst))
 
         authors_info.append({'id': author_id, 'name': author_name, 'institutions': institutions_id})
 
@@ -93,7 +95,7 @@ def extract_openalex_info(paper, paper_id):
         'language': paper['language'],
         'publication_date': paper['publication_date'],
         'authors': authors_id,
-        'institutions': list(institutions_name_set)
+        'institutions': list(institutions_id_set)
     }
     return paper_info, authors_info, institutions_info
 
@@ -136,8 +138,9 @@ def main():
     all_authors_info = []
     all_institutions_info = []
 
-    for paper in results:
-        print(paper['title'])
+    pbar = tqdm(results)
+    for paper in pbar:
+        pbar.set_description(f"paper: {paper['title'].capitalize()}")
         openalex_info = openalex_result(paper['title'].replace(',', ''))
         paper_info, authors_info, inst_info = extract_openalex_info(openalex_info, paper['id'])
         all_papers_info.append(paper_info)

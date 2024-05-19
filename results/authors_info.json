@@ -286,13 +286,13 @@
         "institutions": []
     },
     {
-        "id": "Ral_Vicente",
-        "name": "Raúl Vicente",
+        "id": "Rul_Vicente",
+        "name": "Rául Vicente",
         "institutions": []
     },
     {
         "id": "Antnio_Vicente",
-        "name": "Antônio Vicente",
+        "name": "António Vicente",
         "institutions": []
     },
     {
@@ -704,8 +704,8 @@
         "institutions": []
     },
     {
-        "id": "Antoine_Roux",
-        "name": "Antoine Roux",
+        "id": "Andr_Roux",
+        "name": "André Roux",
         "institutions": []
     },
     {
@@ -889,8 +889,8 @@
         ]
     },
     {
-        "id": "Georgios_Meditskos",
-        "name": "Georgios Meditskos",
+        "id": "_",
+        "name": "Γεώργιος Μεδίτσκος",
         "institutions": [
             "Information_Technologies_Institute",
             "Centre_for_Research_and_Technology_Hellas"

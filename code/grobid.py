@@ -1,8 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
+
 import os
 import json
 
+from hashlib import sha256
 
 def grobid_xml(pdf_path):
     """
@@ -28,7 +30,6 @@ def grobid_xml(pdf_path):
             print(f"Error: Failed to retrieve content from {pdf_path}. Status code: {response.status_code}") 
             return None
     return soup
-
 
 def extract_abstract(xml):
     """
@@ -93,6 +94,12 @@ def extract_ack(xml):
         else:
             return None
 
+def calculate_paper_id(title: str, length: int = 10) -> str:
+    assert length < 64, "the max length of SHA256 is, as string, 64 hexadecimal letters"
+    hasher = sha256()
+    hasher.update(title.encode("utf-8"))
+    paper_id = hasher.hexdigest()
+    return paper_id[-length-1:] # use only the last N bytes of the hash
 
 articles_folder = 'papers'
 # Check if the 'results' directory exists, if not, create it
@@ -120,7 +127,7 @@ for filename in os.listdir(articles_folder):
             acknowledgment = extract_ack(xml)
             
             results.append({
-                "id": id_counter,
+                "id": calculate_paper_id(title),
                 "title": title,
                 "abstract": abstract,
                 "acknowledgment": acknowledgment

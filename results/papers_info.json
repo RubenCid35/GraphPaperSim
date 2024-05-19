@@ -11,7 +11,7 @@
             "Tri_Wulandari"
         ],
         "institutions": [
-            "Universitas Kanjuruhan"
+            "Universitas_Kanjuruhan"
         ]
     },
     {
@@ -30,11 +30,11 @@
             "Dan_Chisholm"
         ],
         "institutions": [
-            "The Open University",
-            "King's College London",
-            "Addis Ababa University",
-            "Federal Ministry of Health",
-            "World Health Organization"
+            "Kings_College_London",
+            "The_Open_University",
+            "World_Health_Organization",
+            "Addis_Ababa_University",
+            "Federal_Ministry_of_Health"
         ]
     },
     {
@@ -48,7 +48,7 @@
             "Thomas_Brox"
         ],
         "institutions": [
-            "University of Freiburg"
+            "University_of_Freiburg"
         ]
     },
     {
@@ -63,10 +63,10 @@
             "Klaus_Robert_Mller"
         ],
         "institutions": [
-            "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute",
-            "Max Planck Institute for Informatics",
-            "Technische Universität Berlin",
-            "Korea University"
+            "Korea_University",
+            "Max_Planck_Institute_for_Informatics",
+            "Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute",
+            "Technische_Universitt_Berlin"
         ]
     },
     {
@@ -101,8 +101,8 @@
             "Dino_Pedreschi"
         ],
         "institutions": [
-            "Institute of Information Science and Technologies",
-            "University of Pisa"
+            "Institute_of_Information_Science_and_Technologies",
+            "University_of_Pisa"
         ]
     },
     {
@@ -116,7 +116,7 @@
             "Fritz_Keinert"
         ],
         "institutions": [
-            "Oregon State University"
+            "Oregon_State_University"
         ]
     },
     {
@@ -134,7 +134,7 @@
             "Lalana_Kagal"
         ],
         "institutions": [
-            "Massachusetts Institute of Technology"
+            "Massachusetts_Institute_of_Technology"
         ]
     },
     {
@@ -149,8 +149,8 @@
             "Jeff_Clune"
         ],
         "institutions": [
-            "Auburn University",
-            "Uber AI (United States)"
+            "Auburn_University",
+            "Uber_AI_United_States"
         ]
     },
     {
@@ -175,7 +175,7 @@
         "publication_date": "2024-04-19",
         "authors": [
             "Marharyta_Domnich",
-            "Ral_Vicente"
+            "Rul_Vicente"
         ],
         "institutions": []
     },
@@ -227,7 +227,7 @@
             "Ilya_Sutskever"
         ],
         "institutions": [
-            "OpenAI (United States)"
+            "OpenAI_United_States"
         ]
     },
     {
@@ -241,8 +241,8 @@
             "Kourosh_Gharachorloo"
         ],
         "institutions": [
-            "Digital Wave (United States)",
-            "Rice University"
+            "Rice_University",
+            "Digital_Wave_United_States"
         ]
     },
     {
@@ -262,17 +262,17 @@
             "Katarzyna_Kordas"
         ],
         "institutions": [
-            "Johns Hopkins University",
-            "Southern Methodist University",
-            "Norwegian University of Science and Technology",
-            "Human Longevity (United States)",
-            "University at Buffalo, State University of New York",
-            "Tulane University",
-            "University of California, Berkeley",
-            "Center for Environmental Health",
-            "Milken Institute",
-            "George Washington University",
-            "University of California, San Diego"
+            "Southern_Methodist_University",
+            "University_of_California_San_Diego",
+            "George_Washington_University",
+            "Milken_Institute",
+            "Johns_Hopkins_University",
+            "Human_Longevity_United_States",
+            "Tulane_University",
+            "Center_for_Environmental_Health",
+            "Norwegian_University_of_Science_and_Technology",
+            "University_of_California_Berkeley",
+            "University_at_Buffalo_State_University_of_New_York"
         ]
     },
     {
@@ -292,7 +292,7 @@
             "Ilya_Sutskever"
         ],
         "institutions": [
-            "OpenAI (United States)"
+            "OpenAI_United_States"
         ]
     },
     {
@@ -334,7 +334,7 @@
             "Todua_Nugzar"
         ],
         "institutions": [
-            "Tbilisi State University"
+            "Tbilisi_State_University"
         ]
     },
     {
@@ -351,8 +351,8 @@
             "Yulan_He"
         ],
         "institutions": [
-            "Harbin Institute of Technology",
-            "University of Warwick"
+            "University_of_Warwick",
+            "Harbin_Institute_of_Technology"
         ]
     },
     {
@@ -380,8 +380,8 @@
             "Francisco_Javier_Salgado_Parreo"
         ],
         "institutions": [
-            "Hospital Universitario Virgen de las Nieves",
-            "Universidad de Granada"
+            "Universidad_de_Granada",
+            "Hospital_Universitario_Virgen_de_las_Nieves"
         ]
     },
     {
@@ -398,11 +398,11 @@
             "Dasapta_Erwin_Irawan"
         ],
         "institutions": [
-            "University of Regensburg",
-            "University of Toronto",
-            "Rice University",
-            "Bandung Institute of Technology",
-            "University of Cambridge"
+            "University_of_Cambridge",
+            "Bandung_Institute_of_Technology",
+            "University_of_Toronto",
+            "Rice_University",
+            "University_of_Regensburg"
         ]
     },
     {
@@ -428,7 +428,7 @@
         "authors": [
             "Albert_Q_Jiang",
             "Alexandre_Sablayrolles",
-            "Antoine_Roux",
+            "Andr_Roux",
             "Michel_Arthur",
             "Blanche_Savary",
             "Chris_Bamford",
@@ -484,9 +484,9 @@
             "Sara_Gerke"
         ],
         "institutions": [
-            "New York Law School",
-            "New York University",
-            "Dickinson College"
+            "Dickinson_College",
+            "New_York_University",
+            "New_York_Law_School"
         ]
     },
     {
@@ -497,14 +497,14 @@
         "publication_date": "2023-02-14",
         "authors": [
             "Zoe_Vasileiou",
-            "Georgios_Meditskos",
+            "_",
             "Stefanos_Vrochidis",
             "Nick_Bassiliades"
         ],
         "institutions": [
-            "Information Technologies Institute",
-            "Aristotle University of Thessaloniki",
-            "Centre for Research and Technology Hellas"
+            "Centre_for_Research_and_Technology_Hellas",
+            "Information_Technologies_Institute",
+            "Aristotle_University_of_Thessaloniki"
         ]
     },
     {
