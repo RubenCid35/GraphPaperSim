@@ -1,0 +1,52 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/MIT",
+    "codeRepository": "https://github.com/RubenCid35/GraphPaperSim",
+    "dateCreated": "2024-04-20",
+    "datePublished": "2024-05-20",
+    "dateModified": "2024-05-20",
+    "issueTracker": "https://github.com/RubenCid35/GraphPaperSim/issues",
+    "name": "Graph Paper Sim",
+    "version": "0.0",
+    "description": "this project is a advanced Data Analysis on Research Publications. \nGiven a corpus of 30 papers, the papers have been grouped according to their themes and a knowledge graph has been constructed.",
+    "keywords": [
+        "grobid",
+        "crf",
+        "python"
+    ],
+    "programmingLanguage": [
+        "Python 3"
+    ],
+    "runtimePlatform": [
+        "Docker"
+    ],
+    "operatingSystem": [
+        "Linux"
+    ],
+    "softwareRequirements": [
+        "Python 3.11",
+        "Docker",
+        "Grobid"
+    ],
+    "author": [
+        {
+          "@type": "Person",
+          "givenName": "Rubén",
+          "familyName": "Cid Costa",
+          "email": "rubencid001@gmail.com"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Yimin",
+          "familyName": "Zhou",
+          "email": "**author2@email.com**"
+        },
+        {
+          "@type": "Person",
+          "givenName": "Rodrigo",
+          "familyName": "Durán Andrés",
+          "email": "rodrigoduranandres@gmail.com"
+        }
+      ]
+}
