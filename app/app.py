@@ -7,6 +7,8 @@ import pandas as pd
 from rdflib import Graph
 from rdflib.plugins.sparql import prepareQuery
 
+from pyparsing.exceptions import ParseBaseException
+
 # Funciones para cargar y consultar RDF
 def load_rdf(file_path):
     g = Graph()
@@ -14,10 +16,13 @@ def load_rdf(file_path):
     return g
 
 def query_rdf(g, query):
-    prepared_query = prepareQuery(query)
-    results = g.query(prepared_query)
-    return [dict(zip(row.labels, row)) for row in results]
-
+    try: 
+        prepared_query = prepareQuery(query)
+        results = g.query(prepared_query)
+        return [dict(zip(row.labels, row)) for row in results]
+    except ParseBaseException as err:
+        return err.explain()
+    
 # Cargar el RDF
 g = load_rdf("output.ttl")
 
@@ -81,6 +86,9 @@ def update_table(n_clicks, sparql_query):
     if n_clicks > 0 and sparql_query:
         data = query_rdf(g, sparql_query)
         
+        if isinstance(data, str):
+            return html.Span(data, style={'color': '#ef4444', 'font-size': '18px', 'width': '100%'})
+
         if not data:
             return html.Div("No hay resultados.")
         

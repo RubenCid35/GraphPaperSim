@@ -2,7 +2,7 @@
 Advanced Data Analysis on Research Publications. Grouping of papers with the usage of a knowledge graph.
 
 ## Description
-The objective of this project is a advanced Data Analysis on Research Publications. Given a corpus of 30 papers, the papers have been grouped according to their themes and a knowledge graph has been constructed. Additionally, the knowledge graph has been enriched with metadata using sources like [OpenAlex](https://openalex.org/) and [OpenAire](https://explore.openaire.eu/).
+The objective of this project is a advanced Data Analysis on Research Publications. Given a corpus of 30 papers, the papers have been grouped according to their topics and similarities; and a knowledge graph has been constructed from those relationships. Additionally, the knowledge graph has been enriched with metadata using sources like [OpenAlex](https://openalex.org/) and [OpenAire](https://explore.openaire.eu/).
 
 
 ## Documentation
@@ -20,12 +20,11 @@ To run this program you will need:
 git clone https://github.com/RubenCid35/GraphPaperSim.git
 ```
 
-**Step 2**: Start the docker server.
-
+**Step 2**: Start the docker server. In windows, you can it from the Docker Desktop o from services.
 
 ## Execution instructions
 To execute the project, you only need to run the programs located in the app folder. Inside it, you will find the RDF generated in `.ttl` (`output.ttl`) format for the 30 articles.
-
+º
 To execute, follow these steps:
 
 **Step 1**: Start the docker server.
@@ -63,8 +62,11 @@ Then, the `code/grobid.py` file is executed to obtain the results in `results/re
 * `code/acknowledgment.py` for the NER model of acknowledgments (`results/acknowledgment.json`).
 * `code/openalex_openaire.py` for extracting external information from papers (`results/papers_info.json`, `results/authors_info.json` y `results/institutions_info.json`)
 
-**Step 3**: With the aforementioned JSON files, the `output.ttl` file has been obtained with...
-
+**Step 3**: With the aforementioned JSON files, the `output.ttl` file has been obtained with [RML Mapper](https://github.com/RMLio/rmlmapper-java). This tool allows the user to execute a RML rules (that are store in the files in mappings) to generate Linked Data.  To use tool with the previous results, first the user needs to download the tool .jar from releases section and execute 
+the following command: 
+```bash
+java -jar .\rmlmapper-6.5.1-r371-all.jar -m .\mappings\transformations.ttl -o app/output.ttl -s turtle 
+```
 
 ## Running examples
 In the application, there are two tabs: "Consulta-Query" (for querying the Knowledge Graph) and "Sobre Nosotros".
@@ -77,9 +79,9 @@ Below is an example of a query.
 
 
 ## Preferred citation
+* Yimin Zhou.
 * Rubén Cid Costa.
 * Rodrigo Durán Andrés.
-* Yimin Zhou.
 
 ## Where to get help
 * Rubén Cid Costa: rubencid001@gmail.com
