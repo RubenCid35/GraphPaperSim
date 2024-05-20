@@ -71,7 +71,7 @@ In the application, there are two tabs: "Consulta-Query" (for querying the Knowl
 
 Below is an example of a query.
 <figure>
-  <img src="docs/example.png" alt="Wordcloud" style="width:450px">
+  <img src="docs/example.png" alt="Wordcloud" style="width:750px">
   <figcaption><i>Figure 1. Query example.</i></figcaption>
 </figure>
 
