@@ -82,8 +82,8 @@ Below is an example of a query.
 * Yimin Zhou.
 
 ## Where to get help
-* Rubén Cid Costa:
-* Rodrigo Durán Andrés:
+* Rubén Cid Costa: rubencid001@gmail.com
+* Rodrigo Durán Andrés: rodrigo.duran.andres@alumnos.upm.es
 * Yimin Zhou.: yimin.zhou@alumnos.upm.es
 
 

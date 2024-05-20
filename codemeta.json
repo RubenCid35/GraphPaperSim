@@ -40,13 +40,13 @@
           "@type": "Person",
           "givenName": "Yimin",
           "familyName": "Zhou",
-          "email": "**author2@email.com**"
+          "email": "yimin.zhou@alumnos.upm.es"
         },
         {
           "@type": "Person",
           "givenName": "Rodrigo",
           "familyName": "Durán Andrés",
-          "email": "rodrigoduranandres@gmail.com"
+          "email": "rodrigo.duran.andres@alumnos.upm.es"
         }
       ]
 }
