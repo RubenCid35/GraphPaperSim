@@ -45,7 +45,7 @@ docker-compose up
 The program will run at http://127.0.0.1:8050/ .
 
 
-### Obtención de RDF
+### RDF Generation
 We will explain how the RDF of the 30 papers used to create the program was obtained. (Its execution is not necessary to run the previous program).
 
 **Step 1**: First, Grobid is used to obtain information (title, abstract, acknowledgements) from the 30 papers. To do this, Grobid needs to be running:
