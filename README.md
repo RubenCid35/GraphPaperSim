@@ -30,7 +30,7 @@ git clone https://github.com/RubenCid35/GraphPaperSim.git
 
 ## Execution instructions
 To execute the project, you only need to run the programs located in the app folder. Inside it, you will find the RDF generated in `.ttl` (`output.ttl`) format for the 30 articles.
-º
+
 To execute, follow these steps:
 
 **Step 1**: Start the docker server.
