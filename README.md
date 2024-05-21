@@ -1,7 +1,8 @@
 # GraphPaperSim
 
 
-[![DOI](https://zenodo.org/badge/784818057.svg)](https://zenodo.org/doi/10.5281/zenodo.11237163)
+[![DOI](https://zenodo.org/badge/784818057.svg)](https://zenodo.org/doi/10.5281/zenodo.11237163) [![Documentation Status](https://readthedocs.org/projects/graphpapersim/badge/?version=latest)](https://graphpapersim.readthedocs.io/en/latest/?badge=latest)
+
 
 
 
@@ -12,7 +13,7 @@ The objective of this project is a advanced Data Analysis on Research Publicatio
 
 
 ## Documentation
-
+You can find the documentation [here](https://graphpapersim.readthedocs.io/en/latest/usage/)
 
 ## Requirements
 To run this program you will need:
