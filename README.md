@@ -24,7 +24,7 @@ To run this program you will need:
 **Step 1:** Clone the repository from GitHub to your local machine:
 
 ```
-git clone https://github.com/RubenCid35/GraphPaperSim.git
+git clone https://github.com/RubenCid35/GraphPaperSim.git cd GraphPaperSim
 ```
 
 **Step 2**: Start the docker server. In windows, you can it from the Docker Desktop o from services.
@@ -79,6 +79,14 @@ java -jar .\rmlmapper-6.5.1-r371-all.jar -m .\mappings\transformations.ttl -o ap
 In the application, there are two tabs: "Consulta-Query" (for querying the Knowledge Graph) and "Sobre Nosotros".
 
 Below is an example of a query.
+
+```
+PREFIX onto: <http://upm.ontology.es/papers#>
+SELECT ?sub ?obj WHERE {
+  ?sub onto:hasName ?obj .
+} LIMIT 10
+```
+
 <figure>
   <img src="docs/example.png" alt="Wordcloud" style="width:750px">
   <figcaption><i>Figure 1. Query example.</i></figcaption>
