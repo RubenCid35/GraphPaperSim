@@ -7,6 +7,9 @@ This code (`grobid.py`) aims to automate the process of extracting key informati
 # Similarity
 This code (`similarity.py`) automates the process of finding similar research papers based on their semantic content extracted from the abstracts. By leveraging all-MiniLM-L6-v2 a pre-trained sentence transformers, it converts text into numerical representations suitable for similarity calculations. The output provides can be used to find potentially related papers within a collection.
 
+# Topic modelling
+The code `topic.py` is responsible for extracting topics from the papers based on their abstract. To achieve this, the LDA model is used. This model requires specifying the number of topics. So, experiments were conducted with different numbers of topics, ranging from 2 to 10. To evaluate these models, coherence metric was used. The optimal number of topics obtained was 4, with a coherence of 0.43.
+
 # Acknowledgements
 Our aim was to extract the targets and persons in the acknowledgements section (`acknowledgment.py`), for this we used bert-base-NER, comparing its result (`acknowledgment.json`) with a manual extraction (`acknowledgment_precision.json`) we have obtained the following results:
 
