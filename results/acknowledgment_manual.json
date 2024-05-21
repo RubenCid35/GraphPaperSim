@@ -1,0 +1,414 @@
+[
+    {
+        "ID": 0,
+        "PER": [],
+        "ORG": [
+            "Lembaga Penelitian dan Pengabdian Masyarakat",
+            "LPPM",
+            "Kanjuruhan University",
+            "Mathematics Education Department",
+            "Science and Technology Faculty",
+            "Kanjuruhan University"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 1,
+        "PER": [
+            "Caroline Whidden"
+        ],
+        "ORG": [],
+        "LOC": [
+            "Ethiopia"
+        ],
+        "MISC": []
+    },
+    {
+        "ID": 2,
+        "PER": [
+            "Aravindh Mahendran",
+            "Jost Tobias Springenberg"
+        ],
+        "ORG": [
+            "ERC Starting Grant VideoLearn"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 3,
+        "PER": [
+            "Sebastian  Lapuschkin",
+            "Alexander Binder"
+        ],
+        "ORG": [
+            "Brain Korea 21 Plus Program",
+            "National Research Foundation of Korea",
+            "Institute for Information Communications Technology Promotion",
+            "IITP",
+            "Korea government",
+            "Deutsche Forschungsgemeinschaft",
+            "DFG",
+            "German Ministry for Education and Research",
+            "Berlin Big Data Cente",
+            "BBDC"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 4,
+        "PER": [
+            "Daniel Smilkov",
+            "Alexander Mordvintsev",
+            "Ethan R Elenberg",
+            "David Alvarez Melis",
+            "Alexander Mordvintsev",
+            "Chris Olah",
+            "Ludwig Schubert",
+            "Christopher",
+            "Nicholas Carlini",
+            "Zahra Rastegar"
+        ],
+        "ORG": [
+            "DeepDream"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 5,
+        "PER": [],
+        "ORG": [
+            "European Community"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 6,
+        "PER": [],
+        "ORG": [
+            "NSF"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 7,
+        "PER": [
+            "Jonathan Frankle"
+        ],
+        "ORG": [
+            "DARPA XA",
+            "National Science Foundation",
+            "MIT-IBM Watson AI Lab",
+            "Toyota Research Institute",
+            "TRI"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 8,
+        "PER": [
+            "Anh Nguyen"
+        ],
+        "ORG": [
+            "Amazon Research Credits",
+            "Auburn University",
+            "Adobe Systems Inc",
+            "Nvidia"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 9,
+        "PER": [
+            "Umut imekli"
+        ],
+        "ORG": [
+            "French government",
+            "Agence Nationale de la Recherche",
+            "Investissements davenir"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 10,
+        "PER": [],
+        "ORG": [
+            "Estonian Research Council Grants",
+            "European Union",
+            "Estonian Centre of Excellence in Artificial Intelligence",
+            "EXAI",
+            "EstonianMinistry of Education and Research"
+        ],
+        "LOC": [],
+        "MISC": [
+            "Horizon 2020 Research and Innovation Programme",
+            "Trust AI"
+        ]
+    },
+    {
+        "ID": 11,
+        "PER": [],
+        "ORG": [
+            "Coordenac o de Aperfeic oamento de Pessoal de Nvel Superior Brasil",
+            "CAPES",
+            "Fundac o de Amparo  Pesquisa do Estado de So Paulo",
+            "FAPESP"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 12,
+        "PER": [
+            "Jonas Mller",
+            "Patrick Esser",
+            "Frederic Boesel",
+            "Minguk Kang",
+            "Taesung Park",
+            "Richard Vencu",
+            "Harry Saini",
+            "Sami Kama",
+            "Yara Wald",
+            "Vanessa Sauer"
+        ],
+        "ORG": [],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 13,
+        "PER": [
+            "Susan Zhang",
+            "Ishaan Gulrajani",
+            "Irene Solaiman",
+            "Miles Brunda",
+            "Gillian Hadfield"
+        ],
+        "ORG": [
+            "CLIP",
+            "OpenAI",
+            "OpenAI"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 14,
+        "PER": [
+            "Alex Nichol",
+            "Chenlin Meng"
+        ],
+        "ORG": [
+            "OpenAI"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 15,
+        "PER": [
+            "Jermesha Smith",
+            "Meghan Ryan",
+            "Eduardo Gonzalez"
+        ],
+        "ORG": [
+            "LCPC"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 16,
+        "PER": [
+            "Matthew Knight",
+            "Rewon Child",
+            "John Schulman",
+            "Heewoo Jun",
+            "Prafulla Dhariwal",
+            "Jong Wook Kim"
+        ],
+        "ORG": [],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 17,
+        "PER": [
+            "Oyvind Tafjord",
+            "Jan Leike",
+            "David Krueger",
+            "Alex Tamkin",
+            "Girish Sastry",
+            "Henry Zhu"
+        ],
+        "ORG": [
+            "DH",
+            "NSF GRFP Fellowship",
+            "NSF Frontier Award",
+            "Open Philanthropy Project Fellowship"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 18,
+        "PER": [],
+        "ORG": [
+            "EU"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 19,
+        "PER": [
+            "Ivane Javakhishvi"
+        ],
+        "ORG": [
+            "European Union",
+            "Tbilisi State University"
+        ],
+        "LOC": [
+            "Georgia"
+        ],
+        "MISC": []
+    },
+    {
+        "ID": 20,
+        "PER": [],
+        "ORG": [
+            "EU",
+            "EPSRC",
+            "Innovate UK",
+            "National Natural Science Foundation of China",
+            "Shenzhen Foundational Research Funding"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 21,
+        "PER": [],
+        "ORG": [
+            "INHA UNIVERSITY"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 22,
+        "PER": [],
+        "ORG": [
+            "Health Agency of Health South of Grenada",
+            "Secretariat of State for Research Development and Innovation",
+            "Ministry of Economy and Competitiveness"
+        ],
+        "LOC": [
+            "Grenada",
+            "Spain",
+            "Spain"
+        ],
+        "MISC": []
+    },
+    {
+        "ID": 23,
+        "PER": [
+            "Hillel Chiel",
+            "Michael Eisen"
+        ],
+        "ORG": [
+            "Mastodon community"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 24,
+        "PER": [
+            "RPN Singh",
+            "Namrata Chhabra",
+            "Sushil Dawka",
+            "Seewoosagur Ramgoolam",
+            "Brijesh Sathian"
+        ],
+        "ORG": [],
+        "LOC": [
+            "Mauritius",
+            "Rumailah Hospital",
+            "Doha",
+            "Qatar"
+        ],
+        "MISC": []
+    },
+    {
+        "ID": 25,
+        "PER": [],
+        "ORG": [
+            "CoreWeave",
+            "Scaleway",
+            "NVIDIA"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 26,
+        "PER": [
+            "Nal Kalchbrenner",
+            "Stephan Gouws"
+        ],
+        "ORG": [],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 27,
+        "PER": [],
+        "ORG": [
+            "European Union",
+            "European Union Health and Digital Executive Agency",
+            "European Union",
+            "SG",
+            "European Union",
+            "National Institute of Biomedical Imaging and Bioengineering",
+            "NIBIB",
+            "National Institutes of Health",
+            "Rock Ethics Institute",
+            "Penn State University"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 28,
+        "PER": [],
+        "ORG": [
+            "European Union",
+            "Research Executive Agency",
+            "REA",
+            "European Commission"
+        ],
+        "LOC": [],
+        "MISC": []
+    },
+    {
+        "ID": 29,
+        "PER": [
+            "Daoyu Zhang",
+            "Jie Guan"
+        ],
+        "ORG": [],
+        "LOC": [],
+        "MISC": [
+            "SARSCoV2"
+        ]
+    }
+]

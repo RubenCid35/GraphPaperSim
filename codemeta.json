@@ -9,7 +9,7 @@
     "issueTracker": "https://github.com/RubenCid35/GraphPaperSim/issues",
     "name": "Graph Paper Sim",
     "version": "0.0",
-    "description": "this project is a advanced Data Analysis on Research Publications. \nGiven a corpus of 30 papers, the papers have been grouped according to their themes and a knowledge graph has been constructed.",
+    "description": "The objective of this project is a advanced Data Analysis on Research Publications. Given a corpus of 30 papers, the papers have been grouped according to their topics and similarities; and a knowledge graph has been constructed from those relationships.",
     "keywords": [
         "grobid",
         "crf",
