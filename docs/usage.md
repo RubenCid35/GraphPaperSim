@@ -33,9 +33,13 @@ docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2
 Then, the `code/grobid.py` file is executed to obtain the results in `results/results.json`.
 
 **Step 2**: Next, topic modeling, clustering, NER, and metadata retrieval are performed using OpenAlex and OpenAire. To do this, the following programs are executed:
+
 * `code/topic.py`  to obtain the existing topics (`results/topic.json`) and the probability of each paper to belong a topic (`results/topic_prob.json`).
+
 * `code/similarity.py` to obtain the similarity between papers (`results/similarity_results.json`).
+
 * `code/acknowledgment.py` for the NER model of acknowledgments (`results/acknowledgment.json`).
+
 * `code/openalex_openaire.py` for extracting external information from papers (`results/papers_info.json`, `results/authors_info.json` y `results/institutions_info.json`)
 
 **Step 3**: With the aforementioned JSON files, the `output.ttl` file has been obtained with [RML Mapper](https://github.com/RMLio/rmlmapper-java). This tool allows the user to execute a RML rules (that are store in the files in mappings) to generate Linked Data.  To use tool with the previous results, first the user needs to download the tool .jar from releases section and execute 
