@@ -50,7 +50,7 @@ docker-compose up
 
 The program will run at http://127.0.0.1:8050/ .
 
-To close tha program, execute:
+To close the program, execute:
 
 ```
 docker-compose down
