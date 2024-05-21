@@ -1,4 +1,10 @@
 # GraphPaperSim
+
+
+[![DOI](https://zenodo.org/badge/784818057.svg)](https://zenodo.org/doi/10.5281/zenodo.11237163)
+
+
+
 Advanced Data Analysis on Research Publications. Grouping of papers with the usage of a knowledge graph.
 
 ## Description
