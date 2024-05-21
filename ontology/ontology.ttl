@@ -1,109 +1,104 @@
 @prefix mod: <https://w3id.org/mod#> .
+@prefix onto: <http://www.upm.ontology.es/papers#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix pap: <http://www.upm.ontology.es/papers#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-pap: a owl:Ontology ;
+onto: a owl:Ontology ;
     mod:createdWith <https://chowlk.linkeddata.es/> .
 
-pap:IsSimilarTo a owl:ObjectProperty ;
+onto:IsSimilarTo a owl:ObjectProperty ;
     rdfs:label "is similar to" ;
-    rdfs:domain pap:PaperSimilarity ;
-    rdfs:range pap:Paper .
+    rdfs:domain onto:PaperSimilarity ;
+    rdfs:range onto:Paper .
 
-pap:acknowledges a owl:ObjectProperty ;
+onto:acknowledges a owl:ObjectProperty ;
     rdfs:label "acknowledges" ;
-    rdfs:domain pap:Paper ;
-    rdfs:range pap:Organization,
-        pap:Person,
-        pap:Project .
+    rdfs:domain onto:Paper ;
+    rdfs:range onto:Organization,
+        onto:Person,
+        onto:Project .
 
-pap:assign a owl:ObjectProperty ;
+onto:assign a owl:ObjectProperty ;
     rdfs:label "assign" ;
-    rdfs:domain pap:TopicAssig ;
-    rdfs:range pap:Topic .
+    rdfs:domain onto:TopicAssig ;
+    rdfs:range onto:Topic .
 
-pap:hasAuthor a owl:ObjectProperty ;
+onto:hasAuthor a owl:ObjectProperty ;
     rdfs:label "has author" ;
-    rdfs:domain pap:Paper ;
-    rdfs:range pap:Person .
+    rdfs:domain onto:Paper ;
+    rdfs:range onto:Person .
 
-pap:hasDOI a owl:DatatypeProperty ;
+onto:hasDOI a owl:DatatypeProperty ;
     rdfs:label "has d o i" ;
-    rdfs:domain pap:Paper ;
+    rdfs:domain onto:Paper ;
     rdfs:range xsd:anyURI .
 
-pap:hasKeyWord a owl:DatatypeProperty ;
+onto:hasKeyWord a owl:DatatypeProperty ;
     rdfs:label "has key word" ;
-    rdfs:domain pap:Topic ;
+    rdfs:domain onto:Topic ;
     rdfs:range xsd:string .
 
-pap:hasLanguage a owl:DatatypeProperty ;
+onto:hasLanguage a owl:DatatypeProperty ;
     rdfs:label "has language" ;
-    rdfs:domain pap:Paper ;
+    rdfs:domain onto:Paper ;
     rdfs:range xsd:string .
 
-pap:hasName a owl:DatatypeProperty ;
+onto:hasName a owl:DatatypeProperty ;
     rdfs:label "has name" ;
-    rdfs:domain pap:Organization,
-        pap:Person ;
+    rdfs:domain onto:Organization,
+        onto:Person ;
     rdfs:range xsd:string .
 
-pap:hasOcupation a owl:DatatypeProperty ;
-    rdfs:label "has ocupation" ;
-    rdfs:domain pap:Person ;
-    rdfs:range xsd:string .
-
-pap:hasPublicationDate a owl:DatatypeProperty ;
+onto:hasPublicationDate a owl:DatatypeProperty ;
     rdfs:label "has publication date" ;
-    rdfs:domain pap:Paper ;
+    rdfs:domain onto:Paper ;
     rdfs:range xsd:dateTime .
 
-pap:hasSimilarity a owl:ObjectProperty ;
+onto:hasSimilarity a owl:ObjectProperty ;
     rdfs:label "has similarity" ;
-    rdfs:domain pap:Paper ;
-    rdfs:range pap:PaperSimilarity .
+    rdfs:domain onto:Paper ;
+    rdfs:range onto:PaperSimilarity .
 
-pap:hasTitle a owl:DatatypeProperty ;
+onto:hasTitle a owl:DatatypeProperty ;
     rdfs:label "has title" ;
-    rdfs:domain pap:Paper ;
+    rdfs:domain onto:Paper ;
     rdfs:range xsd:string .
 
-pap:hasTopic a owl:ObjectProperty ;
+onto:hasTopic a owl:ObjectProperty ;
     rdfs:label "has topic" ;
-    rdfs:domain pap:Paper ;
-    rdfs:range pap:TopicAssig .
+    rdfs:domain onto:Paper ;
+    rdfs:range onto:TopicAssig .
 
-pap:isMemberOf a owl:ObjectProperty ;
+onto:isMemberOf a owl:ObjectProperty ;
     rdfs:label "is member of" ;
-    rdfs:domain pap:Person ;
-    rdfs:range pap:Organization .
+    rdfs:domain onto:Person ;
+    rdfs:range onto:Organization .
 
-pap:score a owl:DatatypeProperty ;
+onto:score a owl:DatatypeProperty ;
     rdfs:label "score" ;
-    rdfs:domain pap:PaperSimilarity,
-        pap:TopicAssig ;
+    rdfs:domain onto:PaperSimilarity,
+        onto:TopicAssig ;
     rdfs:range xsd:float .
 
-pap:Project a owl:Class ;
+onto:Project a owl:Class ;
     rdfs:label "Project" .
 
-pap:Topic a owl:Class ;
+onto:Topic a owl:Class ;
     rdfs:label "Topic" .
 
-pap:Organization a owl:Class ;
+onto:Organization a owl:Class ;
     rdfs:label "Organization" .
 
-pap:PaperSimilarity a owl:Class ;
+onto:PaperSimilarity a owl:Class ;
     rdfs:label "Paper Similarity" .
 
-pap:TopicAssig a owl:Class ;
+onto:TopicAssig a owl:Class ;
     rdfs:label "Topic Assig" .
 
-pap:Person a owl:Class ;
+onto:Person a owl:Class ;
     rdfs:label "Person" .
 
-pap:Paper a owl:Class ;
+onto:Paper a owl:Class ;
     rdfs:label "Paper" .
 
