@@ -50,6 +50,12 @@ docker-compose up
 
 The program will run at http://127.0.0.1:8050/ .
 
+To close tha program, execute:
+
+```
+docker-compose down
+```
+
 
 ### RDF Generation
 We will explain how the RDF of the 30 papers used to create the program was obtained. (Its execution is not necessary to run the previous program).
