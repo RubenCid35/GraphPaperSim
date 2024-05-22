@@ -718,7 +718,8 @@
     <https://papers.knowledgegraph.org/v1/institutions/Science_and_Technology_Faculty>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Kawakibul_Qamar>, <https://papers.knowledgegraph.org/v1/author/Slamet_Riyadi>,
     <https://papers.knowledgegraph.org/v1/author/Tri_Wulandari>, <https://papers.knowledgegraph.org/v1/institutions/Universitas_Kanjuruhan>;
-  onto:hasLanguage "https://doi.org/10.11591/edulearn.v13i3.8412"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.11591/edulearn.v13i3.8412"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2019-08-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/0-1>, <https://papers.knowledgegraph.org/v1/similarity/0-10>,
     <https://papers.knowledgegraph.org/v1/similarity/0-13>, <https://papers.knowledgegraph.org/v1/similarity/0-14>,
@@ -739,7 +740,8 @@
     <https://papers.knowledgegraph.org/v1/author/Tedla_W_Giorgis>, <https://papers.knowledgegraph.org/v1/institutions/Addis_Ababa_University>,
     <https://papers.knowledgegraph.org/v1/institutions/Federal_Ministry_of_Health>, <https://papers.knowledgegraph.org/v1/institutions/Kings_College_London>,
     <https://papers.knowledgegraph.org/v1/institutions/The_Open_University>, <https://papers.knowledgegraph.org/v1/institutions/World_Health_Organization>;
-  onto:hasLanguage "https://doi.org/10.1186/s13033-019-0268-9"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1186/s13033-019-0268-9"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2019-02-25"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/1-0>, <https://papers.knowledgegraph.org/v1/similarity/1-10>,
     <https://papers.knowledgegraph.org/v1/similarity/1-11>, <https://papers.knowledgegraph.org/v1/similarity/1-13>,
@@ -759,7 +761,8 @@
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/EXAI>, <https://papers.knowledgegraph.org/v1/institutions/Estonian_Research_Council_Grants_PRG>,
     <https://papers.knowledgegraph.org/v1/institutions/European_Union>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Marharyta_Domnich>, <https://papers.knowledgegraph.org/v1/author/Rul_Vicente>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2404.12810"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2404.12810"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2024-04-19"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/10-0>, <https://papers.knowledgegraph.org/v1/similarity/10-1>,
     <https://papers.knowledgegraph.org/v1/similarity/10-11>, <https://papers.knowledgegraph.org/v1/similarity/10-12>,
@@ -784,7 +787,8 @@
     <https://papers.knowledgegraph.org/v1/institutions/FAPESP>, <https://papers.knowledgegraph.org/v1/institutions/Fundac_o_de_Amparo__Pesquisa_do_Estado_de_So_Paulo>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Antnio_Vicente>, <https://papers.knowledgegraph.org/v1/author/Roseli_Aparecida_Francelin_Romero>,
     <https://papers.knowledgegraph.org/v1/author/Ruffo_de_Freitas_Jnior>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2404.15029"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2404.15029"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2024-04-23"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/11-1>, <https://papers.knowledgegraph.org/v1/similarity/11-10>,
     <https://papers.knowledgegraph.org/v1/similarity/11-12>, <https://papers.knowledgegraph.org/v1/similarity/11-13>,
@@ -811,7 +815,8 @@
     <https://papers.knowledgegraph.org/v1/author/Vanessa_Sauer>, <https://papers.knowledgegraph.org/v1/author/Yara_Wald>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Andreas_Blattmann>, <https://papers.knowledgegraph.org/v1/author/Axel_Sauer>,
     <https://papers.knowledgegraph.org/v1/author/Dominik_Lorenz>, <https://papers.knowledgegraph.org/v1/author/Robin_Rombach>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2311.17042"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2311.17042"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2023-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/12-10>, <https://papers.knowledgegraph.org/v1/similarity/12-11>,
     <https://papers.knowledgegraph.org/v1/similarity/12-13>, <https://papers.knowledgegraph.org/v1/similarity/12-14>,
@@ -839,7 +844,8 @@
     <https://papers.knowledgegraph.org/v1/author/Jack_Clark>, <https://papers.knowledgegraph.org/v1/author/Jong_Wook_Kim>,
     <https://papers.knowledgegraph.org/v1/author/Pamela_Mishkin>, <https://papers.knowledgegraph.org/v1/author/Sandhini_Agarwal>,
     <https://papers.knowledgegraph.org/v1/institutions/OpenAI_United_States>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2103.00020"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2103.00020"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2021-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/13-0>, <https://papers.knowledgegraph.org/v1/similarity/13-1>,
     <https://papers.knowledgegraph.org/v1/similarity/13-10>, <https://papers.knowledgegraph.org/v1/similarity/13-11>,
@@ -864,7 +870,8 @@
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Kourosh_Gharachorloo>,
     <https://papers.knowledgegraph.org/v1/author/Sarita_V_Adve>, <https://papers.knowledgegraph.org/v1/institutions/Digital_Wave_United_States>,
     <https://papers.knowledgegraph.org/v1/institutions/Rice_University>;
-  onto:hasLanguage "https://doi.org/10.1109/2.546611"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1109/2.546611"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "1996-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/14-0>, <https://papers.knowledgegraph.org/v1/similarity/14-1>,
     <https://papers.knowledgegraph.org/v1/similarity/14-10>, <https://papers.knowledgegraph.org/v1/similarity/14-11>,
@@ -898,7 +905,8 @@
     <https://papers.knowledgegraph.org/v1/institutions/Tulane_University>, <https://papers.knowledgegraph.org/v1/institutions/University_at_Buffalo_State_University_of_New_York>,
     <https://papers.knowledgegraph.org/v1/institutions/University_of_California_Berkeley>,
     <https://papers.knowledgegraph.org/v1/institutions/University_of_California_San_Diego>;
-  onto:hasLanguage "https://doi.org/10.1016/j.envres.2021.111160"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1016/j.envres.2021.111160"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2021-06-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/15-0>, <https://papers.knowledgegraph.org/v1/similarity/15-1>,
     <https://papers.knowledgegraph.org/v1/similarity/15-10>, <https://papers.knowledgegraph.org/v1/similarity/15-11>,
@@ -923,7 +931,8 @@
     <https://papers.knowledgegraph.org/v1/author/Ilya_Sutskever>, <https://papers.knowledgegraph.org/v1/author/Mark_Chen>,
     <https://papers.knowledgegraph.org/v1/author/Mikhail_Pavlov>, <https://papers.knowledgegraph.org/v1/author/Scott_Gray>,
     <https://papers.knowledgegraph.org/v1/institutions/OpenAI_United_States>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2102.12092"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2102.12092"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2021-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/16-0>, <https://papers.knowledgegraph.org/v1/similarity/16-10>,
     <https://papers.knowledgegraph.org/v1/similarity/16-11>, <https://papers.knowledgegraph.org/v1/similarity/16-12>,
@@ -951,7 +960,8 @@
     <https://papers.knowledgegraph.org/v1/author/Dan_Hendrycks>, <https://papers.knowledgegraph.org/v1/author/Dawn_Song>,
     <https://papers.knowledgegraph.org/v1/author/Jacob_Steinhardt>, <https://papers.knowledgegraph.org/v1/author/Mantas_Mazeika>,
     <https://papers.knowledgegraph.org/v1/author/Steven_Basart>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2009.03300"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2009.03300"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2020-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/17-0>, <https://papers.knowledgegraph.org/v1/similarity/17-10>,
     <https://papers.knowledgegraph.org/v1/similarity/17-11>, <https://papers.knowledgegraph.org/v1/similarity/17-12>,
@@ -973,7 +983,8 @@
 <https://papers.knowledgegraph.org/v1/paper/18> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/MAIA>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Denis_Havlik>, <https://papers.knowledgegraph.org/v1/author/Marcelo_Pias>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2402.00830"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2402.00830"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2024-02-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/18-0>, <https://papers.knowledgegraph.org/v1/similarity/18-1>,
     <https://papers.knowledgegraph.org/v1/similarity/18-10>, <https://papers.knowledgegraph.org/v1/similarity/18-11>,
@@ -996,7 +1007,8 @@
 <https://papers.knowledgegraph.org/v1/paper/19> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/European_Union>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Todua_Nugzar>, <https://papers.knowledgegraph.org/v1/institutions/Tbilisi_State_University>;
-  onto:hasLanguage "https://doi.org/10.5281/zenodo.1134961"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.5281/zenodo.1134961"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2017-11-07"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/19-0>, <https://papers.knowledgegraph.org/v1/similarity/19-1>,
     <https://papers.knowledgegraph.org/v1/similarity/19-15>, <https://papers.knowledgegraph.org/v1/similarity/19-17>,
@@ -1011,7 +1023,8 @@
     <https://papers.knowledgegraph.org/v1/author/Vedald>, <https://papers.knowledgegraph.org/v1/institutions/ERC_Starting_Grant_VideoLearn>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Alexey_Dosovitskiy>, <https://papers.knowledgegraph.org/v1/author/Thomas_Brox>,
     <https://papers.knowledgegraph.org/v1/institutions/University_of_Freiburg>;
-  onto:hasLanguage "https://doi.org/10.1109/cvpr.2016.522"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1109/cvpr.2016.522"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2016-06-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/2-10>, <https://papers.knowledgegraph.org/v1/similarity/2-11>,
     <https://papers.knowledgegraph.org/v1/similarity/2-12>, <https://papers.knowledgegraph.org/v1/similarity/2-13>,
@@ -1036,7 +1049,8 @@
     <https://papers.knowledgegraph.org/v1/author/Lin_Gui>, <https://papers.knowledgegraph.org/v1/author/Ruifeng_Xu>,
     <https://papers.knowledgegraph.org/v1/author/Yulan_He>, <https://papers.knowledgegraph.org/v1/institutions/Harbin_Institute_of_Technology>,
     <https://papers.knowledgegraph.org/v1/institutions/University_of_Warwick>;
-  onto:hasLanguage "https://doi.org/10.1109/tkde.2020.2999489"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1109/tkde.2020.2999489"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2022-04-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/20-0>, <https://papers.knowledgegraph.org/v1/similarity/20-1>,
     <https://papers.knowledgegraph.org/v1/similarity/20-10>, <https://papers.knowledgegraph.org/v1/similarity/20-11>,
@@ -1058,7 +1072,8 @@
 <https://papers.knowledgegraph.org/v1/paper/21> a onto:Paper;
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/INHA_UNIVERSITY_Research_Grant>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/JangWoo_Kwon>, <https://papers.knowledgegraph.org/v1/author/Lim_Suong>;
-  onto:hasLanguage "https://doi.org/10.3217/jucs-024-09-1244"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.3217/jucs-024-09-1244"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2018-09-28"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/21-1>, <https://papers.knowledgegraph.org/v1/similarity/21-10>,
     <https://papers.knowledgegraph.org/v1/similarity/21-11>, <https://papers.knowledgegraph.org/v1/similarity/21-12>,
@@ -1084,7 +1099,8 @@
     <https://papers.knowledgegraph.org/v1/author/Francisco_M_Peinado>, <https://papers.knowledgegraph.org/v1/author/Jos_Manuel_Martnez_Linares>,
     <https://papers.knowledgegraph.org/v1/author/Rafael_Guisado_Barrilao>, <https://papers.knowledgegraph.org/v1/institutions/Hospital_Universitario_Virgen_de_las_Nieves>,
     <https://papers.knowledgegraph.org/v1/institutions/Universidad_de_Granada>;
-  onto:hasLanguage "https://doi.org/10.1111/nhs.12299"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1111/nhs.12299"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2016-08-11"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/22-1>, <https://papers.knowledgegraph.org/v1/similarity/22-10>,
     <https://papers.knowledgegraph.org/v1/similarity/22-11>, <https://papers.knowledgegraph.org/v1/similarity/22-13>,
@@ -1106,7 +1122,8 @@
     <https://papers.knowledgegraph.org/v1/author/Peter_MurrayRust>, <https://papers.knowledgegraph.org/v1/institutions/Bandung_Institute_of_Technology>,
     <https://papers.knowledgegraph.org/v1/institutions/Rice_University>, <https://papers.knowledgegraph.org/v1/institutions/University_of_Cambridge>,
     <https://papers.knowledgegraph.org/v1/institutions/University_of_Regensburg>, <https://papers.knowledgegraph.org/v1/institutions/University_of_Toronto>;
-  onto:hasLanguage "https://doi.org/10.1098/rsos.230207"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1098/rsos.230207"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2023-07-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/23-0>, <https://papers.knowledgegraph.org/v1/similarity/23-1>,
     <https://papers.knowledgegraph.org/v1/similarity/23-10>, <https://papers.knowledgegraph.org/v1/similarity/23-11>,
@@ -1130,7 +1147,8 @@
     <https://papers.knowledgegraph.org/v1/author/Sushil_Dawka>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Alexandra_Leclzio>, <https://papers.knowledgegraph.org/v1/author/Indrajit_Banerjee>,
     <https://papers.knowledgegraph.org/v1/author/Jared_Robinson>, <https://papers.knowledgegraph.org/v1/author/Subodh_Kumar_Joshi>;
-  onto:hasLanguage "https://doi.org/10.5281/zenodo.3946369"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.5281/zenodo.3946369"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2020-07-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/24-0>, <https://papers.knowledgegraph.org/v1/similarity/24-1>,
     <https://papers.knowledgegraph.org/v1/similarity/24-10>, <https://papers.knowledgegraph.org/v1/similarity/24-11>,
@@ -1160,7 +1178,8 @@
     <https://papers.knowledgegraph.org/v1/author/Teven_Le_Scao>, <https://papers.knowledgegraph.org/v1/author/Thibaut_Lavril>,
     <https://papers.knowledgegraph.org/v1/author/Thomas_J_Wang>, <https://papers.knowledgegraph.org/v1/author/Thophile_Gervet>,
     <https://papers.knowledgegraph.org/v1/author/Timothe_Lacroix>, <https://papers.knowledgegraph.org/v1/author/William_El_Sayed>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2401.04088"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2401.04088"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2024-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/25-0>, <https://papers.knowledgegraph.org/v1/similarity/25-1>,
     <https://papers.knowledgegraph.org/v1/similarity/25-10>, <https://papers.knowledgegraph.org/v1/similarity/25-11>,
@@ -1184,7 +1203,8 @@
     <https://papers.knowledgegraph.org/v1/author/Illia_Polosukhin>, <https://papers.knowledgegraph.org/v1/author/Jakob_Uszkoreit>,
     <https://papers.knowledgegraph.org/v1/author/Llion_Jones>, <https://papers.knowledgegraph.org/v1/author/Niki_Parmar>,
     <https://papers.knowledgegraph.org/v1/author/Noam_Shazeer>, <https://papers.knowledgegraph.org/v1/author/ukasz_Kaiser>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.1706.03762"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.1706.03762"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2017-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/26-1>, <https://papers.knowledgegraph.org/v1/similarity/26-10>,
     <https://papers.knowledgegraph.org/v1/similarity/26-11>, <https://papers.knowledgegraph.org/v1/similarity/26-12>,
@@ -1213,7 +1233,8 @@
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Mindy_Nunez_Duffourc>,
     <https://papers.knowledgegraph.org/v1/author/Sara_Gerke>, <https://papers.knowledgegraph.org/v1/institutions/Dickinson_College>,
     <https://papers.knowledgegraph.org/v1/institutions/New_York_Law_School>, <https://papers.knowledgegraph.org/v1/institutions/New_York_University>;
-  onto:hasLanguage "https://doi.org/10.1038/s41746-023-00823-w"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1038/s41746-023-00823-w"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2023-04-26"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/27-1>, <https://papers.knowledgegraph.org/v1/similarity/27-10>,
     <https://papers.knowledgegraph.org/v1/similarity/27-11>, <https://papers.knowledgegraph.org/v1/similarity/27-12>,
@@ -1241,7 +1262,8 @@
     <https://papers.knowledgegraph.org/v1/institutions/Aristotle_University_of_Thessaloniki>,
     <https://papers.knowledgegraph.org/v1/institutions/Centre_for_Research_and_Technology_Hellas>,
     <https://papers.knowledgegraph.org/v1/institutions/Information_Technologies_Institute>;
-  onto:hasLanguage "https://doi.org/10.5281/zenodo.7664127"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.5281/zenodo.7664127"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2023-02-14"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/28-1>, <https://papers.knowledgegraph.org/v1/similarity/28-10>,
     <https://papers.knowledgegraph.org/v1/similarity/28-11>, <https://papers.knowledgegraph.org/v1/similarity/28-12>,
@@ -1263,7 +1285,8 @@
   onto:acknowledge <https://papers.knowledgegraph.org/v1/author/Daoyu_Zhang>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Jie_Guan>, <https://papers.knowledgegraph.org/v1/author/Lin_Yan>,
     <https://papers.knowledgegraph.org/v1/author/Shanchang_Hu>, <https://papers.knowledgegraph.org/v1/author/Shu_Kang>;
-  onto:hasLanguage "https://doi.org/10.5281/zenodo.4028830"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.5281/zenodo.4028830"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2020-09-14"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/29-0>, <https://papers.knowledgegraph.org/v1/similarity/29-1>,
     <https://papers.knowledgegraph.org/v1/similarity/29-10>, <https://papers.knowledgegraph.org/v1/similarity/29-11>,
@@ -1288,7 +1311,8 @@
     <https://papers.knowledgegraph.org/v1/author/Wojciech_Samek>, <https://papers.knowledgegraph.org/v1/institutions/Fraunhofer_Institute_for_Telecommunications_Heinrich_Hertz_Institute>,
     <https://papers.knowledgegraph.org/v1/institutions/Korea_University>, <https://papers.knowledgegraph.org/v1/institutions/Max_Planck_Institute_for_Informatics>,
     <https://papers.knowledgegraph.org/v1/institutions/Technische_Universitt_Berlin>;
-  onto:hasLanguage "https://doi.org/10.1016/j.dsp.2017.10.011"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1016/j.dsp.2017.10.011"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2018-02-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/3-10>, <https://papers.knowledgegraph.org/v1/similarity/3-11>,
     <https://papers.knowledgegraph.org/v1/similarity/3-12>, <https://papers.knowledgegraph.org/v1/similarity/3-13>,
@@ -1316,7 +1340,8 @@
     <https://papers.knowledgegraph.org/v1/author/Fernanda_Vigas>, <https://papers.knowledgegraph.org/v1/author/James_Wexler>,
     <https://papers.knowledgegraph.org/v1/author/Justin_Gilmer>, <https://papers.knowledgegraph.org/v1/author/Martin_Wattenberg>,
     <https://papers.knowledgegraph.org/v1/author/Rory_Sayres>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.1711.11279"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.1711.11279"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2017-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/4-10>, <https://papers.knowledgegraph.org/v1/similarity/4-11>,
     <https://papers.knowledgegraph.org/v1/similarity/4-12>, <https://papers.knowledgegraph.org/v1/similarity/4-13>,
@@ -1341,7 +1366,8 @@
     <https://papers.knowledgegraph.org/v1/author/Riccardo_Guidotti>, <https://papers.knowledgegraph.org/v1/author/Salvatore_Ruggieri>,
     <https://papers.knowledgegraph.org/v1/institutions/Institute_of_Information_Science_and_Technologies>,
     <https://papers.knowledgegraph.org/v1/institutions/University_of_Pisa>;
-  onto:hasLanguage "https://doi.org/10.1145/3236009"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1145/3236009"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2018-08-22"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/5-0>, <https://papers.knowledgegraph.org/v1/similarity/5-1>,
     <https://papers.knowledgegraph.org/v1/similarity/5-10>, <https://papers.knowledgegraph.org/v1/similarity/5-11>,
@@ -1365,7 +1391,8 @@
   onto:acknowledge <https://papers.knowledgegraph.org/v1/institutions/NSF_C>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Fritz_Keinert>, <https://papers.knowledgegraph.org/v1/author/Kennan_T_Smith>,
     <https://papers.knowledgegraph.org/v1/institutions/Oregon_State_University>;
-  onto:hasLanguage "https://doi.org/10.1364/ao.24.003950"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1364/ao.24.003950"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "1985-12-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/6-1>, <https://papers.knowledgegraph.org/v1/similarity/6-10>,
     <https://papers.knowledgegraph.org/v1/similarity/6-11>, <https://papers.knowledgegraph.org/v1/similarity/6-12>,
@@ -1392,7 +1419,8 @@
     <https://papers.knowledgegraph.org/v1/author/David_Bau>, <https://papers.knowledgegraph.org/v1/author/Lalana_Kagal>,
     <https://papers.knowledgegraph.org/v1/author/Leilani_H_Gilpin>, <https://papers.knowledgegraph.org/v1/author/Michael_A_Specter>,
     <https://papers.knowledgegraph.org/v1/institutions/Massachusetts_Institute_of_Technology>;
-  onto:hasLanguage "https://doi.org/10.1109/dsaa.2018.00018"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1109/dsaa.2018.00018"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2018-10-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/7-0>, <https://papers.knowledgegraph.org/v1/similarity/7-1>,
     <https://papers.knowledgegraph.org/v1/similarity/7-10>, <https://papers.knowledgegraph.org/v1/similarity/7-11>,
@@ -1418,7 +1446,8 @@
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Anh_Nguyen>, <https://papers.knowledgegraph.org/v1/author/Jason_Yosinski>,
     <https://papers.knowledgegraph.org/v1/author/Jeff_Clune>, <https://papers.knowledgegraph.org/v1/institutions/Auburn_University>,
     <https://papers.knowledgegraph.org/v1/institutions/Uber_AI_United_States>;
-  onto:hasLanguage "https://doi.org/10.1007/978-3-030-28954-6_4"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.1007/978-3-030-28954-6_4"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2019-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/8-10>, <https://papers.knowledgegraph.org/v1/similarity/8-11>,
     <https://papers.knowledgegraph.org/v1/similarity/8-12>, <https://papers.knowledgegraph.org/v1/similarity/8-13>,
@@ -1439,7 +1468,8 @@
     <https://papers.knowledgegraph.org/v1/institutions/Investissements_davenir>;
   onto:hasAuthor <https://papers.knowledgegraph.org/v1/author/Aaron_Lou>, <https://papers.knowledgegraph.org/v1/author/Leonidas_J_Guibas>,
     <https://papers.knowledgegraph.org/v1/author/Tolga_Birdal>, <https://papers.knowledgegraph.org/v1/author/Umut_imekli>;
-  onto:hasLanguage "https://doi.org/10.48550/arxiv.2111.13171"^^xsd:anyURI, "en";
+  onto:hasDOI "https://doi.org/10.48550/arxiv.2111.13171"^^xsd:anyURI;
+  onto:hasLanguage "en";
   onto:hasPublicationDate "2021-01-01"^^xsd:date;
   onto:hasSimilarity <https://papers.knowledgegraph.org/v1/similarity/9-10>, <https://papers.knowledgegraph.org/v1/similarity/9-11>,
     <https://papers.knowledgegraph.org/v1/similarity/9-12>, <https://papers.knowledgegraph.org/v1/similarity/9-13>,
@@ -4415,10 +4445,14 @@
   onto:assign <https://papers.knowledgegraph.org/v1/topic/1>;
   onto:score "0.9788759350776672"^^xsd:float .
 
-<https://papers.knowledgegraph.org/v1/topic/0> a onto:Topic .
+<https://papers.knowledgegraph.org/v1/topic/0> a onto:Topic;
+  onto:hasWords "system, explanation, study, learning, approach, application, analysis, provide, using, given" .
 
-<https://papers.knowledgegraph.org/v1/topic/1> a onto:Topic .
+<https://papers.knowledgegraph.org/v1/topic/1> a onto:Topic;
+  onto:hasWords "network, feature, method, deep, image, data, proposed, approach, neural, learning" .
 
-<https://papers.knowledgegraph.org/v1/topic/2> a onto:Topic .
+<https://papers.knowledgegraph.org/v1/topic/2> a onto:Topic;
+  onto:hasWords "model, study, accuracy, task, data, performance, learning, approach, many, used" .
 
-<https://papers.knowledgegraph.org/v1/topic/3> a onto:Topic .
+<https://papers.knowledgegraph.org/v1/topic/3> a onto:Topic;
+  onto:hasWords "model, training, image, support, trained, new, task, also, impact, two" .

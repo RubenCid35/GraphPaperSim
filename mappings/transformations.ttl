@@ -25,7 +25,7 @@
 	];
 
 	rr:predicateObjectMap [
-	    rr:predicate onto:hasLanguage;
+	    rr:predicate onto:hasDOI;
 	    rr:objectMap [
 	        rml:reference "doi";
             rr:datatype xsd:anyURI;
@@ -185,7 +185,7 @@
     rr:predicateObjectMap [
         rr:predicate onto:hasWords;
         rr:objectMap [
-            rml:reference "words.[*]";
+            rml:reference "words";
             rr:datatype xsd:string;
         ]
     ].

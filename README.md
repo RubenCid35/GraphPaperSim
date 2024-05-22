@@ -93,6 +93,26 @@ SELECT ?sub ?obj WHERE {
 } LIMIT 10
 ```
 
+```
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX onto: <http://upm.ontology.es/papers#>
+
+SELECT ?name ?uri ?topic ?score ?words
+WHERE {
+   ?uri onto:hasTitle ?name;
+          onto:hasTopic ?topicAssign.
+
+    ?topicAssign onto:score  ?score;
+                          onto:assign ?topic.
+
+    ?topic onto:hasWords ?words.
+
+    FILTER( ?score <  0.9)
+
+} LIMIT 10
+```
+
+
 <figure>
   <img src="docs/example.png" alt="Wordcloud" style="width:750px">
   <figcaption><i>Figure 1. Query example.</i></figcaption>

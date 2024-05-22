@@ -73,7 +73,7 @@ def render_tab_content(active_tab):
             html.P("Rubén Cid Costa", style={'margin': '5px 0'}),
             html.P("Rodrigo Durán Andrés", style={'margin': '5px 0'}),
             html.P("Yimin Zhou", style={'margin': '5px 0'}),
-        ], style=styles)
+        ], style=styles, className='py-3 rounded-md')
     return html.Div("Seleccione una pestaña.")
 
 # Callback para enviar y ejecutar la consulta SPARQL
@@ -102,4 +102,4 @@ def update_table(n_clicks, sparql_query):
 # Ejecutar la aplicación
 if __name__ == '__main__':
     ssl._create_default_https_context = ssl._create_unverified_context
-    app.run_server(debug=False, host='0.0.0.0', port=8050)
+    app.run_server(debug=True, host='0.0.0.0', port=8050)
